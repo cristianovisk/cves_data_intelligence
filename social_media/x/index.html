@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mentions CVEs in X</title>
+    <style>
+        /* Estilos para a animação */
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.1);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+        
+        .animated-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            animation: pulse 2s infinite;
+        }
+    </style>
+</head>
+<body>
+    <div style="text-align: center;">
+        <!-- Texto animado -->
+        <h1>CVEs in X</h1>
+        <p>Clique no botão abaixo para baixar o arquivo CSV contendo menções a CVEs na rede social X:</p>
+        <!-- Botão de download -->
+        <a class="animated-button" href="tweet_cves_resumo.csv" download>Download</a>
+    </div>
+</body>
+</html>
