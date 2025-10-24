@@ -10,6 +10,9 @@ on:
 jobs:
   hunt-for-cves:
     runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the changed files.
+      contents: write
 
     steps:
     - name: Check out the repository
@@ -25,7 +28,28 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas requests
 
+    - name: Run Data Collector Script
+      id: data_collection
+      env:
+        GITHUB_API_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
+      run: python data_collector.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add exploits/github/cves_github.csv
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m "chore(data): Daily CVE data update"
+          git push
+        fi
+
     - name: Run CVE Hunter Script
+      # Only run if the data collector found new CVEs
+      if: steps.data_collection.outputs.new_cves_found == 'true'
       env:
         DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       run: python cve_hunter.py
