@@ -36,9 +36,9 @@ Secrets are encrypted environment variables that allow you to store sensitive in
     *   **Name**: `DISCORD_WEBHOOK_URL`
     *   **Secret**: Paste the webhook URL you copied from Discord.
     *   Click `Add secret`.
-4.  **Create Secret 2: `GITHUB_API_TOKEN`**
+4.  **Create Secret 2: `GH_PERSONAL_ACCESS_TOKEN`**
     *   Click `New repository secret` again.
-    *   **Name**: `GITHUB_API_TOKEN`
+    *   **Name**: `GH_PERSONAL_ACCESS_TOKEN`
     *   **Secret**: Paste your GitHub Personal Access Token (see instructions below).
     *   Click `Add secret`.
 

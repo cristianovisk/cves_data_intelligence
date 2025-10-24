@@ -4,14 +4,14 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 # --- Configuration ---
-GITHUB_TOKEN = os.getenv("GITHUB_API_TOKEN")
+GITHUB_TOKEN = os.getenv("GH_PERSONAL_ACCESS_TOKEN")
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 EXPLOITS_CSV_PATH = "exploits/github/cves_github.csv"
 
 def search_github_for_new_cves():
     """Searches GitHub for repositories mentioning CVEs created in the last 24 hours."""
     if not GITHUB_TOKEN:
-        print("Warning: GITHUB_API_TOKEN is not set. Skipping data collection to avoid rate limiting.")
+        print("Warning: GH_PERSONAL_ACCESS_TOKEN is not set. Skipping data collection to avoid rate limiting.")
         return []
 
     yesterday = (datetime.utcnow() - timedelta(days=1)).strftime('%Y-%m-%dT%H:%M:%SZ')

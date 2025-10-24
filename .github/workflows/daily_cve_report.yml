@@ -31,7 +31,7 @@ jobs:
     - name: Run Data Collector Script
       id: data_collection
       env:
-        GITHUB_API_TOKEN: ${{ secrets.GITHUB_API_TOKEN }}
+        GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
       run: python data_collector.py
 
     - name: Commit and push changes
