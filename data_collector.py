@@ -35,8 +35,13 @@ def format_repo_data(repo):
     # This function needs to be carefully implemented to match the existing CSV columns.
     # Based on the previous analysis, the CSV has many columns. We'll fill the essential ones.
     owner = repo.get("owner", {})
+
+    # Safely handle potential None values for name and description
+    repo_name = repo.get("name") or ""
+    repo_description = repo.get("description") or ""
+
     return {
-        "cve": extract_cve_id(repo.get("name", "") + " " + repo.get("description", "")),
+        "cve": extract_cve_id(repo_name + " " + repo_description),
         "poc_github": "True",
         "full_name": repo.get("full_name"),
         "owner_login": owner.get("login"),
