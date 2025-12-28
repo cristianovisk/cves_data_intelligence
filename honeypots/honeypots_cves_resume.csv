@@ -1,85 +1,85 @@
 vendor,product,iot,kev,1d,1d_uniq_ip,7d,30d,90d,history,cve,total,last_seen
-Meta,React Server Components,True,True,63129,172.0,44853,53473,53473,{},CVE-2025-55182,923851,2025-12-27 12:53:45.786950
-Citrix,Citrix NetScaler,True,True,7673,75.0,8516,3874,1683,{},CVE-2025-5777,234473,2025-12-27 12:53:45.843932
+Meta,React Server Components,True,True,63129,172.0,44853,53473,53473,"{'27/12/2025': {'connections': 63129, 'uniq_ips': 172}}",CVE-2025-55182,923851,2025-12-27 12:53:45.786950
+Citrix,Citrix NetScaler,True,True,7673,75.0,8516,3874,1683,"{'27/12/2025': {'connections': 7673, 'uniq_ips': 75}}",CVE-2025-5777,234473,2025-12-27 12:53:45.843932
 Check Point,Check Point Security Gateway,True,True,6999,32.0,2337,1931,2097,{},CVE-2024-24919,643773,2025-12-27 02:07:10.024250
-Juniper,Junos OS (J-Web),True,True,3604,4.0,905,331,658,{},CVE-2023-36844,48339,2025-12-27 12:53:45.796393
-NextGen Healthcare,Mirth Connect,True,True,2925,4.0,1479,1689,2292,{},CVE-2023-37679,1322652,2025-12-27 12:53:45.794893
+Juniper,Junos OS (J-Web),True,True,3604,4.0,905,331,658,"{'27/12/2025': {'connections': 3604, 'uniq_ips': 4}}",CVE-2023-36844,48339,2025-12-27 12:53:45.796393
+NextGen Healthcare,Mirth Connect,True,True,2925,4.0,1479,1689,2292,"{'27/12/2025': {'connections': 2925, 'uniq_ips': 4}}",CVE-2023-37679,1322652,2025-12-27 12:53:45.794893
 Apache,Struts,True,True,2277,1.0,2277,2277,2277,"{'21/12/2024': {'connections': 2277, 'uniq_ips': 1}}",CVE-2024-53677,2277,2024-12-21 12:39:56.606715
-SonicWall,SonicOS,True,True,2211,293.0,1738,1452,1227,{},CVE-2022-22274,866595,2025-12-27 12:53:45.839417
-SonicWall,SonicOS,True,True,2062,293.0,1619,1364,1181,{},CVE-2023-0656,424306,2025-12-27 12:53:45.827925
-Huawei,Huawei Home Gateway HG532,True,True,1739,364.0,1914,2333,3293,{},CVE-2017-17215,7391246,2025-12-27 12:53:45.787350
+SonicWall,SonicOS,True,True,2211,293.0,1738,1452,1227,"{'27/12/2025': {'connections': 2211, 'uniq_ips': 293}}",CVE-2022-22274,866595,2025-12-27 12:53:45.839417
+SonicWall,SonicOS,True,True,2062,293.0,1619,1364,1181,"{'27/12/2025': {'connections': 2062, 'uniq_ips': 293}}",CVE-2023-0656,424306,2025-12-27 12:53:45.827925
+Huawei,Huawei Home Gateway HG532,True,True,1739,364.0,1914,2333,3293,"{'27/12/2025': {'connections': 1739, 'uniq_ips': 364}}",CVE-2017-17215,7391246,2025-12-27 12:53:45.787350
 SugarCRM,SugarCRM,True,True,1716,1.0,363,527,873,"{'24/12/2025': {'connections': 1716, 'uniq_ips': 1}}",CVE-2025-25034,30461,2025-12-24 12:56:38.827250
-PHPUnit - Sebastian Bergmann,PHPUnit,True,True,1651,140.0,1435,1266,1865,{},CVE-2017-9841,6068259,2025-12-27 12:53:45.663785
+PHPUnit - Sebastian Bergmann,PHPUnit,True,True,1651,140.0,1435,1266,1865,"{'27/12/2025': {'connections': 1651, 'uniq_ips': 140}}",CVE-2017-9841,6068259,2025-12-27 12:53:45.663785
 Atlassian,Confluence,True,True,1641,2.0,881,300,714,{},CVE-2021-26084,1831391,2025-12-27 02:07:10.065975
-Cisco,Cisco IOS XE,True,True,1595,296.0,6113,3489,3523,{},CVE-2023-20198,1973819,2025-12-27 12:53:45.845816
-Belkin,Wemo,True,True,1543,246.0,368,434,551,{},CVE-2019-12780,318904,2025-12-27 12:53:45.729036
-Zyxel/Billion,"ZyXEL P660HN-T1A v1, ZyXEL P660HN-T1A v2, Billion 5200W-T",True,True,1431,106.0,1788,2210,1260,{},CVE-2017-18368,283215,2025-12-27 12:53:45.847669
-Geoserver,Geoserver,True,True,1409,2.0,1493,1361,1774,{},CVE-2024-36401,942656,2025-12-27 12:53:45.676231
-Palo Alto Networks,PAN-OS,True,True,1279,20.0,639,371,817,{},CVE-2025-0108,209148,2025-12-27 12:53:45.838842
+Cisco,Cisco IOS XE,True,True,1595,296.0,6113,3489,3523,"{'27/12/2025': {'connections': 1595, 'uniq_ips': 296}}",CVE-2023-20198,1973819,2025-12-27 12:53:45.845816
+Belkin,Wemo,True,True,1543,246.0,368,434,551,"{'27/12/2025': {'connections': 1543, 'uniq_ips': 246}}",CVE-2019-12780,318904,2025-12-27 12:53:45.729036
+Zyxel/Billion,"ZyXEL P660HN-T1A v1, ZyXEL P660HN-T1A v2, Billion 5200W-T",True,True,1431,106.0,1788,2210,1260,"{'27/12/2025': {'connections': 1431, 'uniq_ips': 106}}",CVE-2017-18368,283215,2025-12-27 12:53:45.847669
+Geoserver,Geoserver,True,True,1409,2.0,1493,1361,1774,"{'27/12/2025': {'connections': 1409, 'uniq_ips': 2}}",CVE-2024-36401,942656,2025-12-27 12:53:45.676231
+Palo Alto Networks,PAN-OS,True,True,1279,20.0,639,371,817,"{'27/12/2025': {'connections': 1279, 'uniq_ips': 20}}",CVE-2025-0108,209148,2025-12-27 12:53:45.838842
 SonicWall,SonicOS,True,True,1267,3.0,321,139,324,{},CVE-2024-53704,70203,2025-12-27 02:07:10.151514
-ASUS,GT-AC2900,True,True,1163,6.0,1182,1131,1019,{},CVE-2021-32030,656475,2025-12-27 12:53:45.775330
+ASUS,GT-AC2900,True,True,1163,6.0,1182,1131,1019,"{'27/12/2025': {'connections': 1163, 'uniq_ips': 6}}",CVE-2021-32030,656475,2025-12-27 12:53:45.775330
 Citrix,Citrix ADC and Citrix Gateway,True,True,1037,15.0,186,134,202,{},CVE-2023-4966,351230,2025-12-27 02:07:10.077451
-Oracle,Oracle Weblogic Server,True,True,1007,3.0,514,508,641,{},CVE-2017-10271,109568,2025-12-27 12:53:45.858477
-D-Link,"D-Link DIR-645, DAP-1522 revB, DAP-1650 revB, DIR-880L, DIR-865L, DIR-860L revA, DIR-860L revB DIR-815 revB, DIR-300 revB, DIR-600 revB, DIR-645, TEW-751DR, TEW-733GR",True,True,980,159.0,283,273,190,{},CVE-2015-2051,102170,2025-12-27 12:53:45.795483
-Apache,Apache HTTP Server,True,True,847,154.0,846,853,849,{},CVE-2021-42013,386623,2025-12-27 12:53:45.852007
+Oracle,Oracle Weblogic Server,True,True,1007,3.0,514,508,641,"{'27/12/2025': {'connections': 1007, 'uniq_ips': 3}}",CVE-2017-10271,109568,2025-12-27 12:53:45.858477
+D-Link,"D-Link DIR-645, DAP-1522 revB, DAP-1650 revB, DIR-880L, DIR-865L, DIR-860L revA, DIR-860L revB DIR-815 revB, DIR-300 revB, DIR-600 revB, DIR-645, TEW-751DR, TEW-733GR",True,True,980,159.0,283,273,190,"{'27/12/2025': {'connections': 980, 'uniq_ips': 159}}",CVE-2015-2051,102170,2025-12-27 12:53:45.795483
+Apache,Apache HTTP Server,True,True,847,154.0,846,853,849,"{'27/12/2025': {'connections': 847, 'uniq_ips': 154}}",CVE-2021-42013,386623,2025-12-27 12:53:45.852007
 Tuoshi/Dionlink,Tuoshi/Dionlink LT15D 4G Wi-Fi,True,True,826,1.0,826,826,826,"{'13/11/2025': {'connections': 826, 'uniq_ips': 1}}",CVE-2024-53944,2467,2025-11-13 12:56:32.883169
-Apache,Log4j,True,True,788,35.0,779,531,7890,{},CVE-2021-44228,2324009,2025-12-27 12:53:45.805468
-Metabase,Metabase,True,True,771,131.0,690,599,595,{},CVE-2023-38646,365533,2025-12-27 12:53:45.794293
+Apache,Log4j,True,True,788,35.0,779,531,7890,"{'27/12/2025': {'connections': 788, 'uniq_ips': 35}}",CVE-2021-44228,2324009,2025-12-27 12:53:45.805468
+Metabase,Metabase,True,True,771,131.0,690,599,595,"{'27/12/2025': {'connections': 771, 'uniq_ips': 131}}",CVE-2023-38646,365533,2025-12-27 12:53:45.794293
 Schneider Electric,Schneider Electric U.Motion Builder,True,True,714,1.0,714,714,714,{},CVE-2018-7841,714,2025-11-25 12:56:15.378919
-D-Link,"D-Link DIR-615, DIR-655C, DIR-825, DIR-835, DIR-855L, DIR-866L, DIR-652, DIR-862L, DHP-1565, DAP-1533",True,True,679,3.0,308,245,452,{},CVE-2019-16920,131640,2025-12-27 12:53:45.764381
-XWiki,XWiki Platform,True,True,679,1.0,364,372,200,{},CVE-2025-24893,16109,2025-12-27 12:53:45.675630
-SaltStack,Salt,True,True,646,3.0,320,361,420,{},CVE-2020-16846,115938,2025-12-27 12:53:45.831426
-Dasan,Dasan GPON Home Router,True,True,621,283.0,452,672,611,{},CVE-2018-10562,297184,2025-12-27 12:53:45.769427
+D-Link,"D-Link DIR-615, DIR-655C, DIR-825, DIR-835, DIR-855L, DIR-866L, DIR-652, DIR-862L, DHP-1565, DAP-1533",True,True,679,3.0,308,245,452,"{'27/12/2025': {'connections': 679, 'uniq_ips': 3}}",CVE-2019-16920,131640,2025-12-27 12:53:45.764381
+XWiki,XWiki Platform,True,True,679,1.0,364,372,200,"{'27/12/2025': {'connections': 679, 'uniq_ips': 1}}",CVE-2025-24893,16109,2025-12-27 12:53:45.675630
+SaltStack,Salt,True,True,646,3.0,320,361,420,"{'27/12/2025': {'connections': 646, 'uniq_ips': 3}}",CVE-2020-16846,115938,2025-12-27 12:53:45.831426
+Dasan,Dasan GPON Home Router,True,True,621,283.0,452,672,611,"{'27/12/2025': {'connections': 621, 'uniq_ips': 283}}",CVE-2018-10562,297184,2025-12-27 12:53:45.769427
 QNAP,QNAP QTS and QuTS Hero,True,True,600,3.0,600,2184,2184,"{'21/11/2025': {'connections': 600, 'uniq_ips': 3}}",CVE-2023-50358,15985,2025-11-21 12:53:31.505010
-Microsoft,Exchange,True,True,505,15.0,332,275,510,{},CVE-2021-26855,204099,2025-12-27 12:53:45.785662
-TBK,TBK DVR-4104/DVR-4216,True,True,459,4.0,272,542,1038,{},CVE-2024-3721,301929,2025-12-27 12:53:45.833280
-Spring,Spring Cloud Gateway,True,True,439,1.0,264,177,73,{},CVE-2022-22947,12144,2025-12-27 12:53:45.743452
-Ruby Dragonfly,Ruby Dragonfly,True,True,376,1.0,189,67,56,{},CVE-2021-33564,8515,2025-12-27 12:53:45.673033
-Tenda,Tenda 03V2,True,True,352,1.0,307,338,322,{},CVE-2025-7414,14020,2025-12-27 12:53:45.702377
-Apache,Spark,True,True,347,1.0,230,209,124,{},CVE-2022-33891,9237,2025-12-27 12:53:45.695238
-Drupal,Drupal,True,True,333,5.0,152,140,288,{},CVE-2018-7600,65296,2025-12-27 12:53:45.836814
-Four-Faith,Four-Faith F3x24 and F3x36,True,True,331,2.0,363,427,474,{},CVE-2024-12856,39484,2025-12-27 12:53:45.849110
-Totolink,TOTOLINK Realtek SDK based routers,True,True,330,4.0,155,118,174,{},CVE-2019-19824,64299,2025-12-27 12:53:45.672135
-Genexis,Genexis PLATINUM 4410,True,True,329,1.0,298,320,320,{},CVE-2021-29003,2883,2025-12-27 12:53:45.767391
-Linksys,Linksys E Series,True,True,329,1.0,522,586,619,{},CVE-2013-2678,32934,2025-12-27 12:53:45.693001
-BYTEVALUE,BYTEVALUE Intelligent Flow Control Router,True,True,329,1.0,297,253,276,{},CVE-2023-7311,7967,2025-12-27 12:53:45.839040
-D-Link,"D-Link DNS-320, DNS-320LW, DNS-325 and DNS-340L",True,True,328,1.0,228,208,271,{},CVE-2024-10914,42968,2025-12-27 12:53:45.842762
-DigiEver,DigiEver DS-2105 Pro,True,True,327,1.0,295,273,408,{},CVE-2023-52163,30082,2025-12-27 12:53:45.744455
-GeoVision,GeoVision embedded devices,True,True,326,1.0,296,339,309,{},CVE-2018-25118,7745,2025-12-27 12:53:45.827330
-NETGEAR,"WN604, WN802Tv2, WNAP210v2, WNAP320, WNDAP350, WNDAP360, and WNDAP660",True,True,326,3.0,134,126,608,{},CVE-2016-1555,117115,2025-12-27 12:53:45.806508
-LILIN,LILIN DVR,True,True,324,1.0,304,277,298,{},CVE-2021-30168,25342,2025-12-27 12:53:45.840738
+Microsoft,Exchange,True,True,505,15.0,332,275,510,"{'27/12/2025': {'connections': 505, 'uniq_ips': 15}}",CVE-2021-26855,204099,2025-12-27 12:53:45.785662
+TBK,TBK DVR-4104/DVR-4216,True,True,459,4.0,272,542,1038,"{'27/12/2025': {'connections': 459, 'uniq_ips': 4}}",CVE-2024-3721,301929,2025-12-27 12:53:45.833280
+Spring,Spring Cloud Gateway,True,True,439,1.0,264,177,73,"{'27/12/2025': {'connections': 439, 'uniq_ips': 1}}",CVE-2022-22947,12144,2025-12-27 12:53:45.743452
+Ruby Dragonfly,Ruby Dragonfly,True,True,376,1.0,189,67,56,"{'27/12/2025': {'connections': 376, 'uniq_ips': 1}}",CVE-2021-33564,8515,2025-12-27 12:53:45.673033
+Tenda,Tenda 03V2,True,True,352,1.0,307,338,322,"{'27/12/2025': {'connections': 352, 'uniq_ips': 1}}",CVE-2025-7414,14020,2025-12-27 12:53:45.702377
+Apache,Spark,True,True,347,1.0,230,209,124,"{'27/12/2025': {'connections': 347, 'uniq_ips': 1}}",CVE-2022-33891,9237,2025-12-27 12:53:45.695238
+Drupal,Drupal,True,True,333,5.0,152,140,288,"{'27/12/2025': {'connections': 333, 'uniq_ips': 5}}",CVE-2018-7600,65296,2025-12-27 12:53:45.836814
+Four-Faith,Four-Faith F3x24 and F3x36,True,True,331,2.0,363,427,474,"{'27/12/2025': {'connections': 331, 'uniq_ips': 2}}",CVE-2024-12856,39484,2025-12-27 12:53:45.849110
+Totolink,TOTOLINK Realtek SDK based routers,True,True,330,4.0,155,118,174,"{'27/12/2025': {'connections': 330, 'uniq_ips': 4}}",CVE-2019-19824,64299,2025-12-27 12:53:45.672135
+Genexis,Genexis PLATINUM 4410,True,True,329,1.0,298,320,320,"{'27/12/2025': {'connections': 329, 'uniq_ips': 1}}",CVE-2021-29003,2883,2025-12-27 12:53:45.767391
+Linksys,Linksys E Series,True,True,329,1.0,522,586,619,"{'27/12/2025': {'connections': 329, 'uniq_ips': 1}}",CVE-2013-2678,32934,2025-12-27 12:53:45.693001
+BYTEVALUE,BYTEVALUE Intelligent Flow Control Router,True,True,329,1.0,297,253,276,"{'27/12/2025': {'connections': 329, 'uniq_ips': 1}}",CVE-2023-7311,7967,2025-12-27 12:53:45.839040
+D-Link,"D-Link DNS-320, DNS-320LW, DNS-325 and DNS-340L",True,True,328,1.0,228,208,271,"{'27/12/2025': {'connections': 328, 'uniq_ips': 1}}",CVE-2024-10914,42968,2025-12-27 12:53:45.842762
+DigiEver,DigiEver DS-2105 Pro,True,True,327,1.0,295,273,408,"{'27/12/2025': {'connections': 327, 'uniq_ips': 1}}",CVE-2023-52163,30082,2025-12-27 12:53:45.744455
+GeoVision,GeoVision embedded devices,True,True,326,1.0,296,339,309,"{'27/12/2025': {'connections': 326, 'uniq_ips': 1}}",CVE-2018-25118,7745,2025-12-27 12:53:45.827330
+NETGEAR,"WN604, WN802Tv2, WNAP210v2, WNAP320, WNDAP350, WNDAP360, and WNDAP660",True,True,326,3.0,134,126,608,"{'27/12/2025': {'connections': 326, 'uniq_ips': 3}}",CVE-2016-1555,117115,2025-12-27 12:53:45.806508
+LILIN,LILIN DVR,True,True,324,1.0,304,277,298,"{'27/12/2025': {'connections': 324, 'uniq_ips': 1}}",CVE-2021-30168,25342,2025-12-27 12:53:45.840738
 Totolink,Totolink N150RT,True,True,315,1.0,315,315,315,"{'20/10/2025': {'connections': 315, 'uniq_ips': 1}}",CVE-2025-3987,315,2025-10-20 12:54:08.035732
-Realtek,Realtek SDK,True,True,312,267.0,618,478,555,{},CVE-2014-8361,806801,2025-12-27 12:53:45.725649
-Zyxel,Eir D1000,True,True,312,273.0,508,529,449,{},CVE-2016-10372,156751,2025-12-27 12:53:45.827531
+Realtek,Realtek SDK,True,True,312,267.0,618,478,555,"{'27/12/2025': {'connections': 312, 'uniq_ips': 267}}",CVE-2014-8361,806801,2025-12-27 12:53:45.725649
+Zyxel,Eir D1000,True,True,312,273.0,508,529,449,"{'27/12/2025': {'connections': 312, 'uniq_ips': 273}}",CVE-2016-10372,156751,2025-12-27 12:53:45.827531
 AirLink101,AirLink101 SkyIPCam1620W,True,True,253,1.0,253,253,253,"{'20/10/2025': {'connections': 253, 'uniq_ips': 1}}",CVE-2015-2280,253,2025-10-20 12:54:07.947659
-Ivanti,"Endpoint Manager Mobile (EPMM), formerly MobileIron Core",True,True,236,33.0,137,271,762,{},CVE-2023-35078,408762,2025-12-27 12:53:45.766744
-Ivanti,"Endpoint Manager Mobile (EPMM), formerly MobileIron Core",True,True,235,29.0,139,103,81,{},CVE-2023-35082,123781,2025-12-27 12:53:45.766542
+Ivanti,"Endpoint Manager Mobile (EPMM), formerly MobileIron Core",True,True,236,33.0,137,271,762,"{'27/12/2025': {'connections': 236, 'uniq_ips': 33}}",CVE-2023-35078,408762,2025-12-27 12:53:45.766744
+Ivanti,"Endpoint Manager Mobile (EPMM), formerly MobileIron Core",True,True,235,29.0,139,103,81,"{'27/12/2025': {'connections': 235, 'uniq_ips': 29}}",CVE-2023-35082,123781,2025-12-27 12:53:45.766542
 Amcrest,Amcrest IPM-721S,True,True,233,2.0,204,142,72,"{'25/12/2025': {'connections': 233, 'uniq_ips': 2}}",CVE-2017-8226,20739,2025-12-25 12:55:51.803121
 Tenda,Tenda G103,True,True,232,1.0,232,232,232,"{'20/10/2025': {'connections': 232, 'uniq_ips': 1}}",CVE-2023-27076,232,2025-10-20 12:54:08.070101
-Ivanti,Sentry,True,True,228,25.0,132,98,89,{},CVE-2023-38035,4141,2025-12-27 12:53:45.759765
-QNAP,QNAP NAS devices running Photo Station,True,True,184,6.0,370,211,264,{},CVE-2019-7192,165521,2025-12-27 12:53:45.798010
+Ivanti,Sentry,True,True,228,25.0,132,98,89,"{'27/12/2025': {'connections': 228, 'uniq_ips': 25}}",CVE-2023-38035,4141,2025-12-27 12:53:45.759765
+QNAP,QNAP NAS devices running Photo Station,True,True,184,6.0,370,211,264,"{'27/12/2025': {'connections': 184, 'uniq_ips': 6}}",CVE-2019-7192,165521,2025-12-27 12:53:45.798010
 GitLab,GitLab CE/EE,True,True,170,10.0,170,170,170,"{'31/08/2024': {'connections': 170, 'uniq_ips': 10}, '01/09/2024': {'connections': 170, 'uniq_ips': 10}}",CVE-2021-22205,174,2024-09-01 12:01:11.434075
-Dahua,Dahua DVR/NVR/IPC,True,True,140,1.0,193,125,72,{},CVE-2017-7927,29740,2025-12-27 12:53:45.846618
+Dahua,Dahua DVR/NVR/IPC,True,True,140,1.0,193,125,72,"{'27/12/2025': {'connections': 140, 'uniq_ips': 1}}",CVE-2017-7927,29740,2025-12-27 12:53:45.846618
 Netgear,NETGEAR R/D Series Routers,True,True,114,110.0,103,94,89,{},CVE-2016-6277,20004,2025-12-27 02:07:10.139353
 Fortinet,FortiNAC,True,True,90,2.0,19,49,52,"{'19/12/2025': {'connections': 90, 'uniq_ips': 2}}",CVE-2022-39952,20211,2025-12-19 12:56:29.688750
-Geoserver,Geoserver,True,True,89,3.0,112,475,475,{},CVE-2025-58360,5224,2025-12-27 12:53:45.767176
+Geoserver,Geoserver,True,True,89,3.0,112,475,475,"{'27/12/2025': {'connections': 89, 'uniq_ips': 3}}",CVE-2025-58360,5224,2025-12-27 12:53:45.767176
 Ruijie Networks,Ruijie RG-UAC Application Management Gateway,True,True,87,2.0,57,51,47,{},CVE-2023-7304,1429,2025-12-27 02:07:10.045995
 Progress,MOVEit Transfer,True,True,83,1.0,83,83,83,"{'24/10/2025': {'connections': 83, 'uniq_ips': 1}}",CVE-2024-5806,1012,2025-10-24 12:54:46.674460
 D-Link,D-Link DIR-816/DIR-816A2,True,True,81,1.0,81,81,81,"{'10/10/2024': {'connections': 81, 'uniq_ips': 1}}",CVE-2021-39509,81,2024-10-10 12:43:46.553857
-Spring Boot Actuator Logview,Spring Boot Actuator Logview,True,True,68,3.0,37,18,32,{},CVE-2021-21234,33584,2025-12-27 12:53:45.774946
+Spring Boot Actuator Logview,Spring Boot Actuator Logview,True,True,68,3.0,37,18,32,"{'27/12/2025': {'connections': 68, 'uniq_ips': 3}}",CVE-2021-21234,33584,2025-12-27 12:53:45.774946
 Byzoro,Byzoro Smart S85F Management Platform,True,True,56,1.0,56,56,56,{},CVE-2023-5683,56,2025-07-23 02:21:28.153396
 Tongda,Tongda OA,True,True,55,1.0,55,55,55,{},CVE-2023-5285,55,2025-07-23 02:21:28.089562
 PrestaShop,Posthemes - Static Footer module for PrestaShop,True,True,55,1.0,55,55,55,{},CVE-2023-30194,55,2025-07-23 02:21:28.198357
-Palo Alto Networks,PAN-OS,True,True,54,23.0,44,166,155,{},CVE-2024-9474,104726,2025-12-27 12:53:45.731059
+Palo Alto Networks,PAN-OS,True,True,54,23.0,44,166,155,"{'27/12/2025': {'connections': 54, 'uniq_ips': 23}}",CVE-2024-9474,104726,2025-12-27 12:53:45.731059
 TRENDnet,TRENDnet TEW-652BRP,True,True,51,1.0,51,51,51,"{'13/10/2024': {'connections': 51, 'uniq_ips': 1}}",CVE-2023-0611,51,2024-10-13 12:40:14.968297
 F5,BIG-IP,True,True,48,1.0,30,22,14,"{'14/12/2025': {'connections': 48, 'uniq_ips': 1}}",CVE-2016-5700,661,2025-12-14 12:52:13.064290
 Citrix,"Citrix ADC, Citrix Gateway, Citrix SDWAN WAN-OP",True,True,46,2.0,14,16,415,"{'22/12/2025': {'connections': 46, 'uniq_ips': 2}}",CVE-2020-8191,87237,2025-12-22 12:57:04.246070
 Cisco,Cisco RV320/RV325,True,True,45,35.0,56,56,86,"{'16/12/2025': {'connections': 45, 'uniq_ips': 35}}",CVE-2019-1653,25029,2025-12-16 13:00:01.553516
 Synacor,Zimbra Collaboration Suite,True,True,45,2.0,42,230,711,"{'24/12/2025': {'connections': 45, 'uniq_ips': 2}, '26/12/2025': {'connections': 45, 'uniq_ips': 2}}",CVE-2019-9670,424201,2025-12-24 12:56:38.797594
 ASUS,ASUSWRT,True,True,44,1.0,44,44,44,"{'16/05/2025': {'connections': 44, 'uniq_ips': 1}}",CVE-2018-20334,95,2025-05-16 12:51:53.679090
-PHP Foundation,PHP (PHP-CGI),True,True,44,4.0,16,24,31,{},CVE-2024-4577,243265,2025-12-27 12:53:45.698359
+PHP Foundation,PHP (PHP-CGI),True,True,44,4.0,16,24,31,"{'27/12/2025': {'connections': 44, 'uniq_ips': 4}}",CVE-2024-4577,243265,2025-12-27 12:53:45.698359
 Terramaster,TOS,True,True,43,1.0,43,43,43,{},CVE-2018-13350,43,2025-07-23 02:21:28.216865
-Fortinet,FortiOS,True,True,43,4.0,4742,3290,4062,{},CVE-2018-13379,2155073,2025-12-27 12:53:45.680117
+Fortinet,FortiOS,True,True,43,4.0,4742,3290,4062,"{'27/12/2025': {'connections': 43, 'uniq_ips': 4}}",CVE-2018-13379,2155073,2025-12-27 12:53:45.680117
 TBK,DVR4104/DVR4216 and multiple re-branded versions,True,True,42,6.0,29,12,15,"{'24/12/2025': {'connections': 42, 'uniq_ips': 6}}",CVE-2018-9995,91607,2025-12-24 12:56:38.781336
 Cisco,Cisco RV320/RV325,True,True,41,1.0,41,41,41,"{'13/10/2024': {'connections': 41, 'uniq_ips': 1}}",CVE-2019-1652,41,2024-10-13 12:40:14.946179
 Wifi-soft,Wifi-soft Unibox,True,True,41,1.0,41,41,41,{},CVE-2019-3495,41,2025-07-23 02:21:28.254409
@@ -93,37 +93,37 @@ Anyscale,Ray,True,True,36,2.0,255,126,56,{},CVE-2023-48022,4095,2025-12-27 02:07
 Citrix,Citrix SD-WAN and NetScaler SD-WAN,True,True,34,4.0,11,29,65,{},CVE-2019-12990,75800,2025-12-27 02:07:10.148361
 Citrix,XenMobile Server,True,True,33,4.0,14,8,22,{},CVE-2020-8209,21737,2025-12-27 02:07:10.141085
 Citrix,Citrix ShareFile StorageZones (aka storage zones) Controller,True,True,33,4.0,13,27,22,{},CVE-2020-8982,18275,2025-12-27 02:07:10.049956
-Geoserver,Geoserver,True,True,31,1.0,100,101,297,{},CVE-2025-27505,11778,2025-12-27 12:53:45.844733
-Atlassian,Confluence,True,True,30,4.0,1840,1445,7826,{},CVE-2022-26134,13141732,2025-12-27 12:53:45.777431
+Geoserver,Geoserver,True,True,31,1.0,100,101,297,"{'27/12/2025': {'connections': 31, 'uniq_ips': 1}}",CVE-2025-27505,11778,2025-12-27 12:53:45.844733
+Atlassian,Confluence,True,True,30,4.0,1840,1445,7826,"{'27/12/2025': {'connections': 30, 'uniq_ips': 4}}",CVE-2022-26134,13141732,2025-12-27 12:53:45.777431
 Apache,OFBiz,True,True,27,16.0,35,37,182,{},CVE-2021-26295,86222,2025-12-27 02:07:10.069445
-Atlassian,Confluence,True,True,27,16.0,28,239,826,{},CVE-2023-22515,1086110,2025-12-27 12:53:45.680504
-GeoVision,GeoVision multiple EOL products,True,True,27,1.0,33,28,99,{},CVE-2024-11120,2157,2025-12-27 12:53:45.683789
-Cisco,Cisco ISE and ISE-PIC,True,True,26,1.0,26,14,19,{},CVE-2025-20281,1621,2025-12-27 12:53:45.833717
+Atlassian,Confluence,True,True,27,16.0,28,239,826,"{'27/12/2025': {'connections': 27, 'uniq_ips': 16}}",CVE-2023-22515,1086110,2025-12-27 12:53:45.680504
+GeoVision,GeoVision multiple EOL products,True,True,27,1.0,33,28,99,"{'27/12/2025': {'connections': 27, 'uniq_ips': 1}}",CVE-2024-11120,2157,2025-12-27 12:53:45.683789
+Cisco,Cisco ISE and ISE-PIC,True,True,26,1.0,26,14,19,"{'27/12/2025': {'connections': 26, 'uniq_ips': 1}}",CVE-2025-20281,1621,2025-12-27 12:53:45.833717
 Oracle,BI Publisher (Oracle Fusion Middleware),True,True,26,1.0,26,5,22,{},CVE-2019-2768,5589,2025-12-27 02:07:10.036446
-Apache,Apache HTTP Server,True,True,25,17.0,49,65,332,{},CVE-2021-40438,46773,2025-12-27 12:53:45.722442
+Apache,Apache HTTP Server,True,True,25,17.0,49,65,332,"{'27/12/2025': {'connections': 25, 'uniq_ips': 17}}",CVE-2021-40438,46773,2025-12-27 12:53:45.722442
 Palo Alto Networks,PAN-OS,True,True,25,7.0,8,13,444,"{'24/12/2025': {'connections': 25, 'uniq_ips': 7}}",CVE-2024-0012,83628,2025-12-24 12:56:38.710071
 Atlassian,Confluence,True,True,25,15.0,17,25,185,{},CVE-2023-22518,72440,2025-12-27 02:07:10.073731
 ttimot24,HorizontCMS,True,True,24,1.0,24,24,24,"{'14/07/2025': {'connections': 24, 'uniq_ips': 1}}",CVE-2020-27387,24,2025-07-14 12:56:16.340971
-Citrix,Application Delivery Controller,True,True,23,5.0,4438,2870,3251,{},CVE-2019-19781,913208,2025-12-27 12:53:45.793105
+Citrix,Application Delivery Controller,True,True,23,5.0,4438,2870,3251,"{'27/12/2025': {'connections': 23, 'uniq_ips': 5}}",CVE-2019-19781,913208,2025-12-27 12:53:45.793105
 Atlassian,Confluence,True,True,23,16.0,21,25,121,"{'25/12/2025': {'connections': 23, 'uniq_ips': 16}}",CVE-2022-26138,60454,2025-12-25 12:55:51.683730
 Atlassian,Confluence,True,True,23,14.0,41,32,145,"{'25/12/2025': {'connections': 23, 'uniq_ips': 14}}",CVE-2019-3396,118771,2025-12-25 12:55:51.714695
-Cisco,Cisco IOS,True,True,23,1.0,125,73,155,{},CVE-2001-0537,69118,2025-12-27 12:53:45.751747
+Cisco,Cisco IOS,True,True,23,1.0,125,73,155,"{'27/12/2025': {'connections': 23, 'uniq_ips': 1}}",CVE-2001-0537,69118,2025-12-27 12:53:45.751747
 Zivif,Zivif PR115-204-P-RS,True,True,22,1.0,347,315,309,"{'25/12/2025': {'connections': 22, 'uniq_ips': 1}}",CVE-2017-17105,8732,2025-12-25 12:55:51.733714
-Citrix,Citrix SD-WAN and NetScaler SD-WAN,True,True,21,4.0,13,29,103,{},CVE-2019-12987,248860,2025-12-27 12:53:45.785464
-Citrix,Citrix SD-WAN and NetScaler SD-WAN,True,True,21,5.0,14,27,55,{},CVE-2019-12986,68918,2025-12-27 12:53:45.691166
+Citrix,Citrix SD-WAN and NetScaler SD-WAN,True,True,21,4.0,13,29,103,"{'27/12/2025': {'connections': 21, 'uniq_ips': 4}}",CVE-2019-12987,248860,2025-12-27 12:53:45.785464
+Citrix,Citrix SD-WAN and NetScaler SD-WAN,True,True,21,5.0,14,27,55,"{'27/12/2025': {'connections': 21, 'uniq_ips': 5}}",CVE-2019-12986,68918,2025-12-27 12:53:45.691166
 Linksys,Linksys E2000,True,True,20,1.0,11,19,17,"{'22/12/2025': {'connections': 20, 'uniq_ips': 1}}",CVE-2024-27497,3950,2025-12-22 12:57:04.189180
-Citrix,Citrix SD-WAN and NetScaler SD-WAN,True,True,20,5.0,15,29,41,{},CVE-2019-12989,1879,2025-12-27 12:53:45.767594
+Citrix,Citrix SD-WAN and NetScaler SD-WAN,True,True,20,5.0,15,29,41,"{'27/12/2025': {'connections': 20, 'uniq_ips': 5}}",CVE-2019-12989,1879,2025-12-27 12:53:45.767594
 VMware,vRealize Operations Manager API,True,True,19,1.0,10,9,34,"{'22/12/2025': {'connections': 19, 'uniq_ips': 1}}",CVE-2021-21975,30752,2025-12-22 12:57:04.069707
-Citrix,Citrix ADC and Citrix Gateway,True,True,19,3.0,2153,2717,4167,{},CVE-2023-24488,1085871,2025-12-27 12:53:45.829528
+Citrix,Citrix ADC and Citrix Gateway,True,True,19,3.0,2153,2717,4167,"{'27/12/2025': {'connections': 19, 'uniq_ips': 3}}",CVE-2023-24488,1085871,2025-12-27 12:53:45.829528
 Samsung,Samsung magicINFO 9,True,True,19,1.0,81,212,153,"{'21/12/2025': {'connections': 19, 'uniq_ips': 1}}",CVE-2024-7399,15457,2025-12-21 12:53:00.028554
 Nette,Nette,True,True,19,1.0,19,6,6,"{'22/12/2025': {'connections': 19, 'uniq_ips': 1}}",CVE-2020-15227,1286,2025-12-22 12:57:04.152142
 Spring,Spring Framework,True,True,18,1.0,12,27,101,{},CVE-2022-22965,41660,2025-12-27 02:07:10.097744
 Void Sistemas,Aurall REC Monitor,True,True,16,1.0,7,11,23,"{'21/12/2025': {'connections': 16, 'uniq_ips': 1}}",CVE-2021-25899,24066,2025-12-21 12:53:00.013000
 Fortra,GoAnywhere MFT,True,True,16,10.0,7,47,33,"{'22/12/2025': {'connections': 16, 'uniq_ips': 10}}",CVE-2024-0204,30208,2025-12-22 12:57:04.071671
-LB-LINK,"LB-LINK BL-AC1900_2.0, LB-LINK BL-WR9000, LB-LINK BL-X26, LB-LINK BL-LTE300",True,True,16,3.0,527,1812,1279,{},CVE-2023-26801,1484119,2025-12-27 12:53:45.776398
+LB-LINK,"LB-LINK BL-AC1900_2.0, LB-LINK BL-WR9000, LB-LINK BL-X26, LB-LINK BL-LTE300",True,True,16,3.0,527,1812,1279,"{'27/12/2025': {'connections': 16, 'uniq_ips': 3}}",CVE-2023-26801,1484119,2025-12-27 12:53:45.776398
 Wordpress,Wordpress Update Backup Restore & Monitoring plugin,True,True,15,5.0,15,15,15,"{'18/03/2025': {'connections': 15, 'uniq_ips': 5}}",CVE-2024-12209,15,2025-03-18 12:49:07.855121
 QNAP,QNAP QTS and QuTS Hero,True,True,15,1.0,8,5,6,"{'25/12/2025': {'connections': 15, 'uniq_ips': 1}}",CVE-2024-21899,181286,2025-12-25 12:55:51.682534
-Atlassian,Confluence,True,True,15,13.0,409,230,249,{},CVE-2023-22527,328287,2025-12-27 12:53:45.669741
+Atlassian,Confluence,True,True,15,13.0,409,230,249,"{'27/12/2025': {'connections': 15, 'uniq_ips': 13}}",CVE-2023-22527,328287,2025-12-27 12:53:45.669741
 Sonatype,Nexus Repository Manager,True,True,13,1.0,20,59,66,"{'19/12/2025': {'connections': 13, 'uniq_ips': 1}}",CVE-2019-7238,41292,2025-12-19 12:56:29.664345
 Synacor,Zimbra Collaboration Suite,True,True,13,3.0,7,19,33,"{'25/12/2025': {'connections': 13, 'uniq_ips': 3}}",CVE-2013-7091,68640,2025-12-25 12:55:51.803513
 WAGO,WAGO products (multiple),True,True,13,1.0,4,19,40,{},CVE-2023-1698,15786,2025-12-27 02:07:10.037766
@@ -141,7 +141,7 @@ ServiceNow,"Now Platform (Washington DC, Vancouver, and earlier releases)",True,
 RAISECOM,"RAISECOM MSG1200, MSG2100E, MSG2200 and MSG2300",True,True,10,1.0,8,17,24,"{'22/12/2025': {'connections': 10, 'uniq_ips': 1}}",CVE-2024-7120,13373,2025-12-22 12:57:04.165814
 SecurePoint,SecurePoint UTM,True,True,9,2.0,5,30,20,"{'18/12/2025': {'connections': 9, 'uniq_ips': 2}}",CVE-2023-22897,6830,2025-12-18 12:57:30.519678
 Fortinet,FortiOS and FortiProxy,True,True,9,1.0,8,8,8,"{'12/10/2025': {'connections': 9, 'uniq_ips': 1}}",CVE-2024-21762,186,2025-10-12 12:45:43.398226
-ConnectWise,ScreenConnect,True,True,9,2.0,18,67,103,{},CVE-2024-1709,119774,2025-12-27 12:53:45.832866
+ConnectWise,ScreenConnect,True,True,9,2.0,18,67,103,"{'27/12/2025': {'connections': 9, 'uniq_ips': 2}}",CVE-2024-1709,119774,2025-12-27 12:53:45.832866
 HooToo,HooToo TripMate Titan HT-TM05 and HT-05 routers,True,True,8,1.0,8,8,8,"{'05/08/2024': {'connections': 8, 'uniq_ips': 1}, '06/08/2024': {'connections': 8, 'uniq_ips': 1}}",CVE-2018-20841,8,2024-08-06 06:01:20.183289
 PrimeFaces,PrimeTek,True,True,8,1.0,554,184,108,{},CVE-2017-1000486,51605,2025-12-27 02:07:10.140012
 Tenda,Tenda AC7/AC9/AC10,True,True,8,2.0,5,4,3,"{'11/12/2025': {'connections': 8, 'uniq_ips': 2}}",CVE-2018-14558,2774,2025-12-11 13:00:36.052285
@@ -154,410 +154,410 @@ Securden,Securden Unified PAM,True,True,7,1.0,4,73,75,"{'17/12/2025': {'connecti
 Apache,ActiveMQ,True,True,7,1.0,26,35,55,{},CVE-2016-3088,68677,2025-12-27 02:07:10.185406
 WSO2,WSO2 multiple products,True,True,7,1.0,4,4,4,"{'17/12/2025': {'connections': 7, 'uniq_ips': 1}}",CVE-2025-5605,8,2025-12-17 12:59:56.272815
 ownCloud,ownCloud,True,True,7,3.0,4,63,36,"{'22/12/2025': {'connections': 7, 'uniq_ips': 3}, '23/12/2025': {'connections': 7, 'uniq_ips': 3}, '24/12/2025': {'connections': 7, 'uniq_ips': 3}}",CVE-2023-49103,196366,2025-12-22 12:57:04.191505
-Synacor,Zimbra Collaboration Suite,True,True,7,5.0,747,437,2260,{},CVE-2022-37042,980925,2025-12-27 12:53:45.856698
-Apache,Struts,True,True,7,4.0,15,9,43,{},CVE-2017-9805,49775,2025-12-27 12:53:45.779266
+Synacor,Zimbra Collaboration Suite,True,True,7,5.0,747,437,2260,"{'27/12/2025': {'connections': 7, 'uniq_ips': 5}}",CVE-2022-37042,980925,2025-12-27 12:53:45.856698
+Apache,Struts,True,True,7,4.0,15,9,43,"{'27/12/2025': {'connections': 7, 'uniq_ips': 4}}",CVE-2017-9805,49775,2025-12-27 12:53:45.779266
 Hikvision,Hikvision DS series multiple products,True,True,6,1.0,48,29,18,"{'25/12/2025': {'connections': 6, 'uniq_ips': 1}}",CVE-2017-7921,3174,2025-12-25 12:55:51.792153
 Telerik,Telerik,True,True,6,3.0,4,3,24,"{'22/12/2025': {'connections': 6, 'uniq_ips': 3}, '24/12/2025': {'connections': 6, 'uniq_ips': 5}, '25/12/2025': {'connections': 6, 'uniq_ips': 5}}",CVE-2019-18935,16988,2025-12-22 12:57:04.121714
-Apache,CouchDB,True,True,6,4.0,33,33,48,{},CVE-2017-12635,52998,2025-12-27 12:53:45.852789
-Apache,Druid,True,True,6,3.0,17,19,107,{},CVE-2021-25646,59986,2025-12-27 12:53:45.832665
+Apache,CouchDB,True,True,6,4.0,33,33,48,"{'27/12/2025': {'connections': 6, 'uniq_ips': 4}}",CVE-2017-12635,52998,2025-12-27 12:53:45.852789
+Apache,Druid,True,True,6,3.0,17,19,107,"{'27/12/2025': {'connections': 6, 'uniq_ips': 3}}",CVE-2021-25646,59986,2025-12-27 12:53:45.832665
 Letta,Letta,True,True,6,1.0,6,4,4,"{'04/11/2025': {'connections': 6, 'uniq_ips': 1}}",CVE-2025-51482,8,2025-11-04 12:57:47.235021
 Totolink,Totolink A3700R,True,True,6,1.0,4,24,41,"{'21/12/2025': {'connections': 6, 'uniq_ips': 1}}",CVE-2023-52028,13986,2025-12-21 12:53:00.126602
 SpectoLabs,HoverFly,True,True,6,1.0,4,56,55,"{'17/12/2025': {'connections': 6, 'uniq_ips': 1}}",CVE-2025-54123,766,2025-12-17 12:59:56.298380
 WAVLINK,WAVLINK WL-WN533A8,True,True,6,2.0,6,22,44,"{'20/12/2025': {'connections': 6, 'uniq_ips': 2}}",CVE-2022-48164,6726,2025-12-20 12:52:13.075156
 Apache,Axis2,True,True,6,1.0,82,46,109,{},CVE-2010-0219,68184,2025-12-27 02:07:10.087171
-Hitachi Ventara,Pentaho Business Analytics,True,True,6,2.0,8,14,23,{},CVE-2021-31602,11916,2025-12-27 12:53:45.732956
-SolarWinds,SolarWinds Serv-U,True,True,6,6.0,25,36,87,{},CVE-2024-28995,252686,2025-12-27 12:53:45.800546
+Hitachi Ventara,Pentaho Business Analytics,True,True,6,2.0,8,14,23,"{'27/12/2025': {'connections': 6, 'uniq_ips': 2}}",CVE-2021-31602,11916,2025-12-27 12:53:45.732956
+SolarWinds,SolarWinds Serv-U,True,True,6,6.0,25,36,87,"{'27/12/2025': {'connections': 6, 'uniq_ips': 6}}",CVE-2024-28995,252686,2025-12-27 12:53:45.800546
 Citrix,"Citrix ADC, Citrix Gateway, Citrix SDWAN WAN-OP",True,True,6,1.0,15,145,252,"{'24/12/2025': {'connections': 6, 'uniq_ips': 1}}",CVE-2020-8193,465987,2025-12-24 12:56:38.789330
-Palo Alto Networks,PAN-OS,True,True,5,3.0,16,31,52,{},CVE-2017-15944,54956,2025-12-27 12:53:45.709398
-Ivanti,"Endpoint Manager Mobile (EPMM), formerly MobileIron Core",True,True,5,5.0,259,343,374,{},CVE-2023-35081,91992,2025-12-27 12:53:45.718957
-D-Link,DIR-868L/DIR-817LW,True,True,5,3.0,15,27,62,{},CVE-2019-17506,45217,2025-12-27 12:53:45.728239
-MobileIron,MobileIron Mobile Device Management (MDM),True,True,5,4.0,14,24,477,{},CVE-2020-15505,99243,2025-12-27 12:53:45.677030
-Fortinet,"FortiOS, FortiProxy, and FortiSwitchManager",True,True,5,4.0,4446,3760,4466,{},CVE-2022-40684,1590673,2025-12-27 12:53:45.702983
-Linear,eMerge E3-Series,True,True,5,3.0,12,28,90,{},CVE-2019-7256,61045,2025-12-27 12:53:45.733348
+Palo Alto Networks,PAN-OS,True,True,5,3.0,16,31,52,"{'27/12/2025': {'connections': 5, 'uniq_ips': 3}}",CVE-2017-15944,54956,2025-12-27 12:53:45.709398
+Ivanti,"Endpoint Manager Mobile (EPMM), formerly MobileIron Core",True,True,5,5.0,259,343,374,"{'27/12/2025': {'connections': 5, 'uniq_ips': 5}}",CVE-2023-35081,91992,2025-12-27 12:53:45.718957
+D-Link,DIR-868L/DIR-817LW,True,True,5,3.0,15,27,62,"{'27/12/2025': {'connections': 5, 'uniq_ips': 3}}",CVE-2019-17506,45217,2025-12-27 12:53:45.728239
+MobileIron,MobileIron Mobile Device Management (MDM),True,True,5,4.0,14,24,477,"{'27/12/2025': {'connections': 5, 'uniq_ips': 4}}",CVE-2020-15505,99243,2025-12-27 12:53:45.677030
+Fortinet,"FortiOS, FortiProxy, and FortiSwitchManager",True,True,5,4.0,4446,3760,4466,"{'27/12/2025': {'connections': 5, 'uniq_ips': 4}}",CVE-2022-40684,1590673,2025-12-27 12:53:45.702983
+Linear,eMerge E3-Series,True,True,5,3.0,12,28,90,"{'27/12/2025': {'connections': 5, 'uniq_ips': 3}}",CVE-2019-7256,61045,2025-12-27 12:53:45.733348
 Citrix,Citrix SD-WAN and NetScaler SD-WAN,True,True,5,1.0,8,25,55,"{'24/12/2025': {'connections': 5, 'uniq_ips': 1}}",CVE-2019-12985,68506,2025-12-24 12:56:38.765442
-Apache,OFBiz,True,True,5,4.0,11,7,35,{},CVE-2011-3600,36815,2025-12-27 12:53:45.777051
-YouPHPTube,YouPHPTube Encoder,True,True,4,3.0,8,25,78,{},CVE-2019-5127,70177,2025-12-27 12:53:45.837230
-Zoho,"ManageEngine OpManager OpManager Plus, OpManager MSP, Network Configuration Manager, NetFlow Analyzer, Firewall Analyzer, and OpUtils",True,True,4,3.0,3,6,6,{},CVE-2022-36923,821,2025-12-27 12:53:45.834708
-KevinLAB,Building Energy Management System,True,True,4,3.0,4,4,24,{},CVE-2021-37291,9597,2025-12-27 12:53:45.740720
-D-Link,D-Link DIR-600M,True,True,4,3.0,12,29,56,{},CVE-2019-13101,3847,2025-12-27 12:53:45.790004
-VoIPmonitor,VoIPmonitor,True,True,4,3.0,5,21,38,{},CVE-2022-24260,13552,2025-12-27 12:53:45.808504
-Wordpress,Wordpress Perfect Survey plugin,True,True,4,3.0,4,24,40,{},CVE-2021-24762,24331,2025-12-27 12:53:45.834134
-Draytek,"Draytek Vigor2960, Vigor3900, Vigor300B",True,True,4,3.0,17,27,110,{},CVE-2020-8515,55880,2025-12-27 12:53:45.838427
-vBulletin,vBulletin,True,True,4,3.0,19,28,521,{},CVE-2020-17496,131200,2025-12-27 12:53:45.699580
-Apache,Tika,True,True,4,3.0,15,8,30,{},CVE-2018-1335,39623,2025-12-27 12:53:45.744659
+Apache,OFBiz,True,True,5,4.0,11,7,35,"{'27/12/2025': {'connections': 5, 'uniq_ips': 4}}",CVE-2011-3600,36815,2025-12-27 12:53:45.777051
+YouPHPTube,YouPHPTube Encoder,True,True,4,3.0,8,25,78,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2019-5127,70177,2025-12-27 12:53:45.837230
+Zoho,"ManageEngine OpManager OpManager Plus, OpManager MSP, Network Configuration Manager, NetFlow Analyzer, Firewall Analyzer, and OpUtils",True,True,4,3.0,3,6,6,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2022-36923,821,2025-12-27 12:53:45.834708
+KevinLAB,Building Energy Management System,True,True,4,3.0,4,4,24,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2021-37291,9597,2025-12-27 12:53:45.740720
+D-Link,D-Link DIR-600M,True,True,4,3.0,12,29,56,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2019-13101,3847,2025-12-27 12:53:45.790004
+VoIPmonitor,VoIPmonitor,True,True,4,3.0,5,21,38,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2022-24260,13552,2025-12-27 12:53:45.808504
+Wordpress,Wordpress Perfect Survey plugin,True,True,4,3.0,4,24,40,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2021-24762,24331,2025-12-27 12:53:45.834134
+Draytek,"Draytek Vigor2960, Vigor3900, Vigor300B",True,True,4,3.0,17,27,110,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2020-8515,55880,2025-12-27 12:53:45.838427
+vBulletin,vBulletin,True,True,4,3.0,19,28,521,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2020-17496,131200,2025-12-27 12:53:45.699580
+Apache,Tika,True,True,4,3.0,15,8,30,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2018-1335,39623,2025-12-27 12:53:45.744659
 Grafana,Grafana,True,True,4,1.0,3,49,19,"{'17/12/2025': {'connections': 4, 'uniq_ips': 1}}",CVE-2025-3415,448,2025-12-17 12:59:56.284208
-Wordpress,Wordpress BadgeOS plugin,True,True,4,3.0,4,22,38,{},CVE-2022-2958,13893,2025-12-27 12:53:45.793879
+Wordpress,Wordpress BadgeOS plugin,True,True,4,3.0,4,22,38,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2022-2958,13893,2025-12-27 12:53:45.793879
 RedHat,JBoss,True,True,4,1.0,4,3,2,"{'27/11/2025': {'connections': 4, 'uniq_ips': 1}}",CVE-2017-12149,27,2025-11-27 12:56:01.600053
-Apache,ColdFusion,True,True,4,3.0,16,26,54,{},CVE-2018-15961,51363,2025-12-27 12:53:45.833518
+Apache,ColdFusion,True,True,4,3.0,16,26,54,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2018-15961,51363,2025-12-27 12:53:45.833518
 Cisco,Cisco RV132W/RV134W,True,True,4,2.0,3,19,20,"{'20/12/2025': {'connections': 4, 'uniq_ips': 2}}",CVE-2018-0127,12434,2025-12-20 12:52:13.037887
 Citrix,Citrix Virtual Apps and Desktops,True,True,4,1.0,4,4,4,"{'17/12/2025': {'connections': 4, 'uniq_ips': 1}}",CVE-2024-8069,4622,2025-12-17 12:59:56.217433
-Wordpress,Wordpress KiviCare plugin,True,True,4,3.0,4,23,37,{},CVE-2022-0786,15186,2025-12-27 12:53:45.804261
-Jolokia,Jolokia,True,True,4,3.0,17,9,29,{},CVE-2018-1000130,35641,2025-12-27 12:53:45.826940
-Hikvision,Hikvision Web Server,True,True,4,3.0,18,70,125,{},CVE-2021-36260,265359,2025-12-27 12:53:45.696647
-Nagios,Nagios XI,True,True,4,3.0,12,7,30,{},CVE-2018-10737,35995,2025-12-27 12:53:45.752179
+Wordpress,Wordpress KiviCare plugin,True,True,4,3.0,4,23,37,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2022-0786,15186,2025-12-27 12:53:45.804261
+Jolokia,Jolokia,True,True,4,3.0,17,9,29,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2018-1000130,35641,2025-12-27 12:53:45.826940
+Hikvision,Hikvision Web Server,True,True,4,3.0,18,70,125,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2021-36260,265359,2025-12-27 12:53:45.696647
+Nagios,Nagios XI,True,True,4,3.0,12,7,30,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2018-10737,35995,2025-12-27 12:53:45.752179
 Wazuh,Wazuh,True,True,4,1.0,4,4,15,"{'08/12/2025': {'connections': 4, 'uniq_ips': 1}}",CVE-2025-24016,5368,2025-12-08 12:57:01.979128
-YouPHPTube,YouPHPTube Encoder,True,True,4,3.0,8,26,114,{},CVE-2019-5128,79770,2025-12-27 12:53:45.717370
-JEECG,jeecg-boot,True,True,4,3.0,4,20,35,{},CVE-2023-1454,12344,2025-12-27 12:53:45.713693
-Pulse Secure,Pulse Secure VPN,True,True,4,3.0,465,342,424,{},CVE-2019-11510,262983,2025-12-27 12:53:45.719183
-YouPHPTube,YouPHPTube Encoder,True,True,4,3.0,16,26,124,{},CVE-2019-5129,79814,2025-12-27 12:53:45.704408
+YouPHPTube,YouPHPTube Encoder,True,True,4,3.0,8,26,114,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2019-5128,79770,2025-12-27 12:53:45.717370
+JEECG,jeecg-boot,True,True,4,3.0,4,20,35,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2023-1454,12344,2025-12-27 12:53:45.713693
+Pulse Secure,Pulse Secure VPN,True,True,4,3.0,465,342,424,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2019-11510,262983,2025-12-27 12:53:45.719183
+YouPHPTube,YouPHPTube Encoder,True,True,4,3.0,16,26,124,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2019-5129,79814,2025-12-27 12:53:45.704408
 SAP,"NetWeaver Application Server ABAP, SAP NetWeaver Application Server Java, ABAP Platform, SAP Content Server 7.53 and SAP Web Dispatcher",True,True,4,2.0,4,17,10,"{'18/12/2025': {'connections': 4, 'uniq_ips': 2}}",CVE-2022-22536,576,2025-12-18 12:57:30.423522
-TerraMaster,TOS,True,True,4,3.0,12,26,140,{},CVE-2020-35665,152656,2025-12-27 12:53:45.760347
-WAVLINK,WAVLINK WN535K2 and WN535K3,True,True,4,3.0,9,21,166,{},CVE-2022-2488,61776,2025-12-27 12:53:45.770060
-Six Apart (Movable Type),Movable Type,True,True,4,3.0,11,22,98,{},CVE-2021-20837,36562,2025-12-27 12:53:45.678099
+TerraMaster,TOS,True,True,4,3.0,12,26,140,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2020-35665,152656,2025-12-27 12:53:45.760347
+WAVLINK,WAVLINK WN535K2 and WN535K3,True,True,4,3.0,9,21,166,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2022-2488,61776,2025-12-27 12:53:45.770060
+Six Apart (Movable Type),Movable Type,True,True,4,3.0,11,22,98,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2021-20837,36562,2025-12-27 12:53:45.678099
 CONTEC,SolarView Compact,True,True,4,1.0,5,28,41,"{'21/12/2025': {'connections': 4, 'uniq_ips': 1}}",CVE-2022-40881,15137,2025-12-21 12:53:00.020920
-Totolink,EX200,True,True,4,3.0,9,21,73,{},CVE-2021-43711,21218,2025-12-27 12:53:45.748102
-Zyxel,"USG FLEX 100, 100W, 200, 500, 700, USG20-VPN, USG20W-VPN, ATP 100, 200, 500, 700, 800",True,True,4,3.0,7,25,46,{},CVE-2022-30525,19748,2025-12-27 12:53:45.821540
-Dogtag,Dogtag - Certificate System,True,True,4,3.0,7,4,24,{},CVE-2022-2414,10519,2025-12-27 12:53:45.820403
-Wordpress,Wordpress Secure Copy Content Protection and Content Locking plugin,True,True,4,3.0,49,31,179,{},CVE-2021-24931,83157,2025-12-27 12:53:45.733750
+Totolink,EX200,True,True,4,3.0,9,21,73,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2021-43711,21218,2025-12-27 12:53:45.748102
+Zyxel,"USG FLEX 100, 100W, 200, 500, 700, USG20-VPN, USG20W-VPN, ATP 100, 200, 500, 700, 800",True,True,4,3.0,7,25,46,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2022-30525,19748,2025-12-27 12:53:45.821540
+Dogtag,Dogtag - Certificate System,True,True,4,3.0,7,4,24,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2022-2414,10519,2025-12-27 12:53:45.820403
+Wordpress,Wordpress Secure Copy Content Protection and Content Locking plugin,True,True,4,3.0,49,31,179,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2021-24931,83157,2025-12-27 12:53:45.733750
 Sitecore,"Sitecore Experience Manager (XM), Experience Platform (XP), Experience Commerce (XC)",True,True,4,1.0,3,34,29,"{'17/12/2025': {'connections': 4, 'uniq_ips': 1}}",CVE-2025-34509,170,2025-12-17 12:59:56.304021
 Nacos,Nacos,True,True,4,2.0,2,6,15,"{'20/12/2025': {'connections': 4, 'uniq_ips': 2}}",CVE-2021-29442,13137,2025-12-20 12:52:13.134054
-Daylight Studio,FUEL CMS,True,True,4,3.0,12,26,48,{},CVE-2018-16763,39950,2025-12-27 12:53:45.731439
-OpenDreamBox,Plugin WebAdmin,True,True,4,3.0,20,28,112,{},CVE-2017-14135,303657,2025-12-27 12:53:45.704791
-WSO2,WSO2 multiple products,True,True,4,3.0,7,25,51,{},CVE-2022-29464,18263,2025-12-27 12:53:45.722249
-TerraMaster,TOS,True,True,4,3.0,9,25,71,{},CVE-2020-15568,58678,2025-12-27 12:53:45.736665
-FlexPaper (Flowpaper),FlexPaper (Flowpaper),True,True,4,3.0,17,26,73,{},CVE-2018-11686,15277,2025-12-27 12:53:45.714498
+Daylight Studio,FUEL CMS,True,True,4,3.0,12,26,48,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2018-16763,39950,2025-12-27 12:53:45.731439
+OpenDreamBox,Plugin WebAdmin,True,True,4,3.0,20,28,112,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2017-14135,303657,2025-12-27 12:53:45.704791
+WSO2,WSO2 multiple products,True,True,4,3.0,7,25,51,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2022-29464,18263,2025-12-27 12:53:45.722249
+TerraMaster,TOS,True,True,4,3.0,9,25,71,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2020-15568,58678,2025-12-27 12:53:45.736665
+FlexPaper (Flowpaper),FlexPaper (Flowpaper),True,True,4,3.0,17,26,73,"{'27/12/2025': {'connections': 4, 'uniq_ips': 3}}",CVE-2018-11686,15277,2025-12-27 12:53:45.714498
 Wordpress,Wordpress LearnPress plugin,True,True,3,1.0,3,3,3,"{'09/11/2025': {'connections': 3, 'uniq_ips': 1}, '17/11/2025': {'connections': 3, 'uniq_ips': 1}}",CVE-2023-6634,7779,2025-11-09 12:48:24.429293
-Geoserver,Geoserver,True,True,3,1.0,2,13,67,{},CVE-2025-30220,15050,2025-12-27 12:53:45.734755
-F5,BIG-IP,True,True,3,2.0,12,32,500,{},CVE-2021-22986,122542,2025-12-27 12:53:45.735593
-Wordpress,Wordpress Plugin drag-and-drop-multiple-file-upload-contact-form-7,True,True,3,2.0,3,25,74,{},CVE-2020-12800,55797,2025-12-27 12:53:45.681733
-Intellian,Intellian Aptus Web,True,True,3,3.0,13,25,54,{},CVE-2020-7980,40588,2025-12-27 12:53:45.683595
-Apache,Unomi,True,True,3,3.0,30,31,86,{},CVE-2020-13942,40788,2025-12-27 12:53:45.706722
+Geoserver,Geoserver,True,True,3,1.0,2,13,67,"{'27/12/2025': {'connections': 3, 'uniq_ips': 1}}",CVE-2025-30220,15050,2025-12-27 12:53:45.734755
+F5,BIG-IP,True,True,3,2.0,12,32,500,"{'27/12/2025': {'connections': 3, 'uniq_ips': 2}}",CVE-2021-22986,122542,2025-12-27 12:53:45.735593
+Wordpress,Wordpress Plugin drag-and-drop-multiple-file-upload-contact-form-7,True,True,3,2.0,3,25,74,"{'27/12/2025': {'connections': 3, 'uniq_ips': 2}}",CVE-2020-12800,55797,2025-12-27 12:53:45.681733
+Intellian,Intellian Aptus Web,True,True,3,3.0,13,25,54,"{'27/12/2025': {'connections': 3, 'uniq_ips': 3}}",CVE-2020-7980,40588,2025-12-27 12:53:45.683595
+Apache,Unomi,True,True,3,3.0,30,31,86,"{'27/12/2025': {'connections': 3, 'uniq_ips': 3}}",CVE-2020-13942,40788,2025-12-27 12:53:45.706722
 Guangzhou,Guangzhou 1GE ONU (GPON),True,True,3,1.0,5,37,43,"{'17/12/2025': {'connections': 3, 'uniq_ips': 1}}",CVE-2020-8958,1542,2025-12-17 12:59:56.220665
 D-Link,D-Link DIR-825,True,True,3,1.0,2,2,2,"{'29/09/2025': {'connections': 3, 'uniq_ips': 1}}",CVE-2020-29557,128,2025-09-29 12:54:23.413358
-Sonatype,Nexus Repository Manager,True,True,3,1.0,3,5,14,{},CVE-2020-10199,2437,2025-12-27 12:53:45.853605
-Myucms,Myucms,True,True,3,2.0,2,7,41,{},CVE-2020-21650,15404,2025-12-27 12:53:45.720989
-QNAP,QNAP NAS devices running Photo Station,True,True,3,2.0,6,15,23,{},CVE-2022-27593,7189,2025-12-27 12:53:45.769647
+Sonatype,Nexus Repository Manager,True,True,3,1.0,3,5,14,"{'27/12/2025': {'connections': 3, 'uniq_ips': 1}}",CVE-2020-10199,2437,2025-12-27 12:53:45.853605
+Myucms,Myucms,True,True,3,2.0,2,7,41,"{'27/12/2025': {'connections': 3, 'uniq_ips': 2}}",CVE-2020-21650,15404,2025-12-27 12:53:45.720989
+QNAP,QNAP NAS devices running Photo Station,True,True,3,2.0,6,15,23,"{'27/12/2025': {'connections': 3, 'uniq_ips': 2}}",CVE-2022-27593,7189,2025-12-27 12:53:45.769647
 QNAP,QNAP QTS,True,True,3,3.0,3,2,7,"{'27/11/2025': {'connections': 3, 'uniq_ips': 2}, '28/11/2025': {'connections': 3, 'uniq_ips': 2}}",CVE-2020-2507,1823,2025-11-25 12:56:15.397089
-MLflow,MLflow,True,True,3,2.0,4,23,55,{},CVE-2023-1177,28288,2025-12-27 12:53:45.680721
-Oracle,Oracle Weblogic Server,True,True,3,3.0,17,27,111,{},CVE-2019-2725,132473,2025-12-27 12:53:45.685699
-GeoServer,GeoServer,True,True,3,1.0,67,28,54,{},CVE-2021-40822,18705,2025-12-27 12:53:45.792123
+MLflow,MLflow,True,True,3,2.0,4,23,55,"{'27/12/2025': {'connections': 3, 'uniq_ips': 2}}",CVE-2023-1177,28288,2025-12-27 12:53:45.680721
+Oracle,Oracle Weblogic Server,True,True,3,3.0,17,27,111,"{'27/12/2025': {'connections': 3, 'uniq_ips': 3}}",CVE-2019-2725,132473,2025-12-27 12:53:45.685699
+GeoServer,GeoServer,True,True,3,1.0,67,28,54,"{'27/12/2025': {'connections': 3, 'uniq_ips': 1}}",CVE-2021-40822,18705,2025-12-27 12:53:45.792123
 Next.js,Next.js,True,True,3,1.0,3,2,2,"{'15/10/2025': {'connections': 3, 'uniq_ips': 1}}",CVE-2025-29927,50,2025-10-15 12:54:42.452692
-Fortinet,Fortinet FortiWeb,True,True,3,3.0,3,217,220,{},CVE-2025-64446,6859,2025-12-27 12:53:45.703763
-Wordpress,Wordpress ARPrice Lite plugin,True,True,3,3.0,3,23,38,{},CVE-2022-0867,13831,2025-12-27 12:53:45.739559
-Atlassian,JIRA,True,True,3,2.0,6,5,27,{},CVE-2022-39960,7473,2025-12-27 12:53:45.719369
-Rocket.Chat,Rocket.Chat,True,True,3,3.0,10,24,47,{},CVE-2021-22911,27925,2025-12-27 12:53:45.677728
+Fortinet,Fortinet FortiWeb,True,True,3,3.0,3,217,220,"{'27/12/2025': {'connections': 3, 'uniq_ips': 3}}",CVE-2025-64446,6859,2025-12-27 12:53:45.703763
+Wordpress,Wordpress ARPrice Lite plugin,True,True,3,3.0,3,23,38,"{'27/12/2025': {'connections': 3, 'uniq_ips': 3}}",CVE-2022-0867,13831,2025-12-27 12:53:45.739559
+Atlassian,JIRA,True,True,3,2.0,6,5,27,"{'27/12/2025': {'connections': 3, 'uniq_ips': 2}}",CVE-2022-39960,7473,2025-12-27 12:53:45.719369
+Rocket.Chat,Rocket.Chat,True,True,3,3.0,10,24,47,"{'27/12/2025': {'connections': 3, 'uniq_ips': 3}}",CVE-2021-22911,27925,2025-12-27 12:53:45.677728
 ZKTeco,"ZKTeco ZEM500-510-560-760, ZEM600-800, ZEM720, ZMM",True,True,3,1.0,2,5,11,"{'20/12/2025': {'connections': 3, 'uniq_ips': 1}}",CVE-2022-42953,1126,2025-12-20 12:52:13.137349
 Totolink,Totolink T10,True,True,3,1.0,3,3,3,"{'16/12/2025': {'connections': 3, 'uniq_ips': 1}}",CVE-2024-9001,300,2025-12-16 13:00:01.439863
-CONTEC,SolarView Compact ver.6.00,True,True,3,3.0,6,26,43,{},CVE-2022-29303,15943,2025-12-27 12:53:45.720004
+CONTEC,SolarView Compact ver.6.00,True,True,3,3.0,6,26,43,"{'27/12/2025': {'connections': 3, 'uniq_ips': 3}}",CVE-2022-29303,15943,2025-12-27 12:53:45.720004
 Ivanti,Ivanti Secure Connect and Policy Secure,True,True,3,3.0,32,223,194,{},CVE-2023-46805,38957,2025-12-27 02:07:10.094223
-TP-Link,TP-Link Archer AX21,True,True,3,3.0,208,275,281,{},CVE-2023-1389,1117319,2025-12-27 12:53:45.740937
-JetBrains,TeamCity,True,True,3,3.0,6215,6483,6538,{},CVE-2023-42793,5216237,2025-12-27 12:53:45.771130
+TP-Link,TP-Link Archer AX21,True,True,3,3.0,208,275,281,"{'27/12/2025': {'connections': 3, 'uniq_ips': 3}}",CVE-2023-1389,1117319,2025-12-27 12:53:45.740937
+JetBrains,TeamCity,True,True,3,3.0,6215,6483,6538,"{'27/12/2025': {'connections': 3, 'uniq_ips': 3}}",CVE-2023-42793,5216237,2025-12-27 12:53:45.771130
 Totolink,Totolink X18,True,True,3,1.0,3,59,41,"{'10/12/2025': {'connections': 3, 'uniq_ips': 1}}",CVE-2024-2353,1955,2025-12-10 12:59:45.600610
 SAP,BusinessObjects Business Intelligence Platform (Web Services),True,True,2,1.0,2,2,2,"{'15/09/2024': {'connections': 2, 'uniq_ips': 1}}",CVE-2020-6308,2,2024-09-15 12:39:34.689437
-dotCMS,dotCMS,True,True,2,2.0,6,24,47,{},CVE-2022-26352,18350,2025-12-27 12:53:45.830642
-RaspAP,RaspAP,True,True,2,2.0,6,24,42,{},CVE-2022-39986,16187,2025-12-27 12:53:45.768025
-Netsweeper,Netsweeper,True,True,2,2.0,9,23,58,{},CVE-2020-13167,46036,2025-12-27 12:53:45.669360
-The Digital Craft,AtomCMS,True,True,2,2.0,3,25,96,{},CVE-2022-25487,19377,2025-12-27 12:53:45.791713
-College Management System,College Management System v1.0,True,True,2,2.0,3,2,22,{},CVE-2022-28079,9641,2025-12-27 12:53:45.829356
-Wordpress,Wordpress Narnoo Distributor plugin,True,True,2,2.0,3,26,106,{},CVE-2022-0679,18914,2025-12-27 12:53:45.678323
-Wordpress,Wordpress WooCommerce Dropshipping plugin,True,True,2,2.0,3,21,37,{},CVE-2022-3481,1918,2025-12-27 12:53:45.728450
-Cisco,Cisco ASA and Cisco Firepower Threat Defense,True,True,2,1.0,6,5,538,{},CVE-2020-3452,79491,2025-12-27 12:53:45.808336
+dotCMS,dotCMS,True,True,2,2.0,6,24,47,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-26352,18350,2025-12-27 12:53:45.830642
+RaspAP,RaspAP,True,True,2,2.0,6,24,42,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-39986,16187,2025-12-27 12:53:45.768025
+Netsweeper,Netsweeper,True,True,2,2.0,9,23,58,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-13167,46036,2025-12-27 12:53:45.669360
+The Digital Craft,AtomCMS,True,True,2,2.0,3,25,96,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-25487,19377,2025-12-27 12:53:45.791713
+College Management System,College Management System v1.0,True,True,2,2.0,3,2,22,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-28079,9641,2025-12-27 12:53:45.829356
+Wordpress,Wordpress Narnoo Distributor plugin,True,True,2,2.0,3,26,106,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-0679,18914,2025-12-27 12:53:45.678323
+Wordpress,Wordpress WooCommerce Dropshipping plugin,True,True,2,2.0,3,21,37,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-3481,1918,2025-12-27 12:53:45.728450
+Cisco,Cisco ASA and Cisco Firepower Threat Defense,True,True,2,1.0,6,5,538,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2020-3452,79491,2025-12-27 12:53:45.808336
 Wordpress,Wordpress Advanced Booking Calendar plugin,True,True,2,1.0,5,16,39,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-1006,1088,2025-12-20 12:52:13.043389
-WAVLINK,WAVLINK WN579X3,True,True,2,1.0,4,5,16,{},CVE-2022-31847,11655,2025-12-27 12:53:45.759595
-C-DATA,C-DATA Web Management System,True,True,2,1.0,2,6,6,{},CVE-2022-4257,1574,2025-12-27 12:53:45.834943
-Wordpress,Wordpress IWS - Geo Form Fields plugin,True,True,2,2.0,3,21,36,{},CVE-2022-4117,12867,2025-12-27 12:53:45.799408
-CuppaCMS,CuppaCMS,True,True,2,2.0,3,6,27,{},CVE-2022-25486,9917,2025-12-27 12:53:45.844556
-Apache,Flink,True,True,2,2.0,7,5,41,{},CVE-2020-17518,46509,2025-12-27 12:53:45.820711
-Roxy-WI,Roxy-WI,True,True,2,2.0,6,24,44,{},CVE-2022-31126,15639,2025-12-27 12:53:45.835804
-Aviatrix,Aviatrix Controller,True,True,2,2.0,12,23,95,{},CVE-2021-40870,22565,2025-12-27 12:53:45.741156
-HashiCorp,Consul and Consul Enterprise,True,True,2,1.0,4,10,28,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-29153,11788,2025-12-20 12:52:13.041353
+WAVLINK,WAVLINK WN579X3,True,True,2,1.0,4,5,16,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-31847,11655,2025-12-27 12:53:45.759595
+C-DATA,C-DATA Web Management System,True,True,2,1.0,2,6,6,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-4257,1574,2025-12-27 12:53:45.834943
+Wordpress,Wordpress IWS - Geo Form Fields plugin,True,True,2,2.0,3,21,36,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-4117,12867,2025-12-27 12:53:45.799408
+CuppaCMS,CuppaCMS,True,True,2,2.0,3,6,27,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-25486,9917,2025-12-27 12:53:45.844556
+Apache,Flink,True,True,2,2.0,7,5,41,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-17518,46509,2025-12-27 12:53:45.820711
+Roxy-WI,Roxy-WI,True,True,2,2.0,6,24,44,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-31126,15639,2025-12-27 12:53:45.835804
+Aviatrix,Aviatrix Controller,True,True,2,2.0,12,23,95,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-40870,22565,2025-12-27 12:53:45.741156
+HashiCorp,Consul and Consul Enterprise,True,True,2,1.0,4,10,28,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-29153,11788,2025-12-20 12:52:13.041353
 Laravel,Ignition,True,True,2,1.0,91,121,180,"{'24/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2021-3129,220386,2025-12-24 12:56:38.754980
 camptocamp,Terraboard,True,True,2,1.0,2,2,2,"{'15/09/2024': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-1883,3,2024-09-15 12:39:34.687628
-Atlassian,JIRA,True,True,2,1.0,2,5,18,{},CVE-2019-8442,2745,2025-12-27 12:53:45.792693
+Atlassian,JIRA,True,True,2,1.0,2,5,18,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2019-8442,2745,2025-12-27 12:53:45.792693
 vBulletin,vBulletin,True,True,2,1.0,2,2,2,{},CVE-2025-48827,2,2025-08-02 02:11:21.528574
-Adobe,ColdFusion,True,True,2,1.0,8,7,27,{},CVE-2021-21087,66421,2025-12-27 12:53:45.735171
-DCN (Digital China Networks),DCBI-Netlog-LAB,True,True,2,2.0,3,21,39,{},CVE-2023-26802,3431,2025-12-27 12:53:45.674026
+Adobe,ColdFusion,True,True,2,1.0,8,7,27,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2021-21087,66421,2025-12-27 12:53:45.735171
+DCN (Digital China Networks),DCBI-Netlog-LAB,True,True,2,2.0,3,21,39,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-26802,3431,2025-12-27 12:53:45.674026
 Crestron,Crestron HD-MD4X2-4K-E,True,True,2,1.0,2,16,18,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-23178,9481,2025-12-20 12:52:13.012586
-Wordpress,Wordpress FormCraft plugin,True,True,2,1.0,2,7,6,{},CVE-2022-0591,966,2025-12-27 12:53:45.675087
-Magento,Magento Mass Import (MAGMI) plugin,True,True,2,1.0,4,10,33,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-5776,49921,2025-12-20 12:52:13.056249
-Totolink,Totolink Realtek SDK based routers,True,True,2,1.0,3,22,22,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2019-19825,21489,2025-12-22 12:57:04.100470
-rConfig,rConfig,True,True,2,2.0,11,24,66,{},CVE-2020-13638,66292,2025-12-27 12:53:45.805300
-HPE,HPE Smart Update Manager (SUM),True,True,2,2.0,3,23,51,{},CVE-2020-7136,3276,2025-12-27 12:53:45.714307
-F5,BIG-IP,True,True,2,2.0,9,86,145,{},CVE-2022-1388,73610,2025-12-27 12:53:45.764794
-Emby,Emby Server,True,True,2,1.0,8,16,25,{},CVE-2020-26948,350,2025-12-27 12:53:45.673626
-D-Link,DNS-320,True,True,2,2.0,13,23,506,{},CVE-2020-25506,100794,2025-12-27 12:53:45.667087
-Oracle,Oracle E-Business Suite (Oracle Web Applications Desktop Integrator),True,True,2,2.0,8,27,94,{},CVE-2022-21587,40835,2025-12-27 12:53:45.739337
-Microchip Technology (Microsemi),SyncServer,True,True,2,2.0,7,20,40,{},CVE-2022-40022,14763,2025-12-27 12:53:45.786072
-Cassia,Cassia Gateway,True,True,2,2.0,3,21,82,{},CVE-2023-31446,24806,2025-12-27 12:53:45.750415
-Arcserve,Arcserve Unified Data Protection (UDP),True,True,2,1.0,4,28,36,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-26258,1916,2025-12-20 12:52:13.055386
-F5,BIG-IP,True,True,2,2.0,4,32,65,{},CVE-2023-46747,48961,2025-12-27 12:53:45.682161
-NETGEAR/NUUO,"NETGEAR ReadyNAS Surveillance, NUUO NVRmini, NUUO NVRsolo",True,True,2,2.0,23,27,75,{},CVE-2016-5674,103139,2025-12-27 12:53:45.672326
+Wordpress,Wordpress FormCraft plugin,True,True,2,1.0,2,7,6,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-0591,966,2025-12-27 12:53:45.675087
+Magento,Magento Mass Import (MAGMI) plugin,True,True,2,1.0,4,10,33,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-5776,49921,2025-12-20 12:52:13.056249
+Totolink,Totolink Realtek SDK based routers,True,True,2,1.0,3,22,22,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2019-19825,21489,2025-12-22 12:57:04.100470
+rConfig,rConfig,True,True,2,2.0,11,24,66,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-13638,66292,2025-12-27 12:53:45.805300
+HPE,HPE Smart Update Manager (SUM),True,True,2,2.0,3,23,51,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-7136,3276,2025-12-27 12:53:45.714307
+F5,BIG-IP,True,True,2,2.0,9,86,145,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-1388,73610,2025-12-27 12:53:45.764794
+Emby,Emby Server,True,True,2,1.0,8,16,25,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2020-26948,350,2025-12-27 12:53:45.673626
+D-Link,DNS-320,True,True,2,2.0,13,23,506,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-25506,100794,2025-12-27 12:53:45.667087
+Oracle,Oracle E-Business Suite (Oracle Web Applications Desktop Integrator),True,True,2,2.0,8,27,94,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-21587,40835,2025-12-27 12:53:45.739337
+Microchip Technology (Microsemi),SyncServer,True,True,2,2.0,7,20,40,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-40022,14763,2025-12-27 12:53:45.786072
+Cassia,Cassia Gateway,True,True,2,2.0,3,21,82,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-31446,24806,2025-12-27 12:53:45.750415
+Arcserve,Arcserve Unified Data Protection (UDP),True,True,2,1.0,4,28,36,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-26258,1916,2025-12-20 12:52:13.055386
+F5,BIG-IP,True,True,2,2.0,4,32,65,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-46747,48961,2025-12-27 12:53:45.682161
+NETGEAR/NUUO,"NETGEAR ReadyNAS Surveillance, NUUO NVRmini, NUUO NVRsolo",True,True,2,2.0,23,27,75,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2016-5674,103139,2025-12-27 12:53:45.672326
 Airspan,Airspot 5410,True,True,2,1.0,2,2,2,"{'15/09/2024': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-36267,3,2024-09-15 12:39:34.721172
-Realtek,Realtek SDK,True,True,2,2.0,3,27,534,{},CVE-2021-35395,69491,2025-12-27 12:53:45.847281
-PrestaShop,PrestaShop ApolloTheme AP PageBuilder module,True,True,2,2.0,8,22,88,{},CVE-2022-22897,129504,2025-12-27 12:53:45.819499
+Realtek,Realtek SDK,True,True,2,2.0,3,27,534,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-35395,69491,2025-12-27 12:53:45.847281
+PrestaShop,PrestaShop ApolloTheme AP PageBuilder module,True,True,2,2.0,8,22,88,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-22897,129504,2025-12-27 12:53:45.819499
 Artica,Artica Proxy,True,True,2,1.0,2,17,20,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2020-13158,4919,2025-12-20 12:52:13.000733
 Oracle,Oracle Fusion Middleware (Identity Manager),True,True,2,1.0,2,2,2,"{'04/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2025-61757,2,2025-12-04 12:59:17.574112
-Seagate,BlackArmor NAS,True,True,2,2.0,38,31,344,{},CVE-2014-3206,330309,2025-12-27 12:53:45.722839
-VMWare,vCenter Server,True,True,2,1.0,2,6,16,{},CVE-2021-21972,2653,2025-12-27 12:53:45.785266
-Wordpress,Wordpress VR Calendar plugin,True,True,2,2.0,2,25,99,{},CVE-2022-2314,22084,2025-12-27 12:53:45.699976
-Western Digital,MyCloud NAS,True,True,2,2.0,11,25,50,{},CVE-2016-10108,35537,2025-12-27 12:53:45.677251
-Apache,Tapestry,True,True,2,2.0,23,31,41,{},CVE-2021-27850,32121,2025-12-27 12:53:45.725254
-Apache,APISIX,True,True,2,2.0,20,29,88,{},CVE-2022-24112,21273,2025-12-27 12:53:45.799961
-NETGEAR,NETGEAR ProSafe FVS336Gv2/FVS336Gv3,True,True,2,1.0,4,29,46,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-29383,20792,2025-12-20 12:52:12.981927
-BigAnt Software,BigAnt Server,True,True,2,1.0,6,15,18,{},CVE-2022-23347,5420,2025-12-27 12:53:45.759182
-Wordpress,Wordpress Block and Stop Bad Bots plugin,True,True,2,2.0,3,24,78,{},CVE-2021-24499,34131,2025-12-27 12:53:45.675840
-VMware,vCenter,True,True,2,2.0,11,24,92,{},CVE-2021-21985,38266,2025-12-27 12:53:45.771644
+Seagate,BlackArmor NAS,True,True,2,2.0,38,31,344,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2014-3206,330309,2025-12-27 12:53:45.722839
+VMWare,vCenter Server,True,True,2,1.0,2,6,16,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2021-21972,2653,2025-12-27 12:53:45.785266
+Wordpress,Wordpress VR Calendar plugin,True,True,2,2.0,2,25,99,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-2314,22084,2025-12-27 12:53:45.699976
+Western Digital,MyCloud NAS,True,True,2,2.0,11,25,50,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2016-10108,35537,2025-12-27 12:53:45.677251
+Apache,Tapestry,True,True,2,2.0,23,31,41,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-27850,32121,2025-12-27 12:53:45.725254
+Apache,APISIX,True,True,2,2.0,20,29,88,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-24112,21273,2025-12-27 12:53:45.799961
+NETGEAR,NETGEAR ProSafe FVS336Gv2/FVS336Gv3,True,True,2,1.0,4,29,46,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-29383,20792,2025-12-20 12:52:12.981927
+BigAnt Software,BigAnt Server,True,True,2,1.0,6,15,18,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-23347,5420,2025-12-27 12:53:45.759182
+Wordpress,Wordpress Block and Stop Bad Bots plugin,True,True,2,2.0,3,24,78,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-24499,34131,2025-12-27 12:53:45.675840
+VMware,vCenter,True,True,2,2.0,11,24,92,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-21985,38266,2025-12-27 12:53:45.771644
 CWP,CWP (Control Web Panel),True,True,2,1.0,2,2,2,{},CVE-2025-48703,2,2025-08-16 12:50:50.372442
 Landray,Landray EIS,True,True,2,1.0,2,2,2,"{'29/11/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2025-22214,2,2025-11-29 12:51:06.030802
-Razer,Razer Sila,True,True,2,2.0,3,2,26,{},CVE-2022-29014,10376,2025-12-27 12:53:45.738990
-H3C,H3C GR3200,True,True,2,1.0,4,6,23,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-36509,12175,2025-12-20 12:52:13.037013
-Wordpress,Wordpress HTML2WP plugin,True,True,2,2.0,3,26,30,{},CVE-2022-1574,822,2025-12-27 12:53:45.680906
-Zoho,ManageEngine ADSelfService Plus,True,True,2,2.0,15,28,129,{},CVE-2021-40539,76130,2025-12-27 12:53:45.693232
-Linear,eMerge E3-Series,True,True,2,1.0,7,15,19,{},CVE-2019-7254,6240,2025-12-27 12:53:45.668782
+Razer,Razer Sila,True,True,2,2.0,3,2,26,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-29014,10376,2025-12-27 12:53:45.738990
+H3C,H3C GR3200,True,True,2,1.0,4,6,23,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-36509,12175,2025-12-20 12:52:13.037013
+Wordpress,Wordpress HTML2WP plugin,True,True,2,2.0,3,26,30,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-1574,822,2025-12-27 12:53:45.680906
+Zoho,ManageEngine ADSelfService Plus,True,True,2,2.0,15,28,129,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-40539,76130,2025-12-27 12:53:45.693232
+Linear,eMerge E3-Series,True,True,2,1.0,7,15,19,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2019-7254,6240,2025-12-27 12:53:45.668782
 Wordpress,Wordpress Admin Word Count Column plugin,True,True,2,1.0,2,19,20,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-1390,4564,2025-12-20 12:52:12.983637
-Guralp,Guralp MAN-EAM-0003,True,True,2,1.0,4,10,23,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-38840,1186,2025-12-20 12:52:13.018979
-pfSense,pfSense pfBlockerNG,True,True,2,1.0,2,23,23,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-31814,512,2025-12-22 12:57:04.056574
-Roxy-WI,Roxy-WI,True,True,2,2.0,3,25,45,{},CVE-2022-31161,3225,2025-12-27 12:53:45.738773
-Apache,ShenYu,True,True,2,2.0,21,27,38,{},CVE-2021-37580,17238,2025-12-27 12:53:45.830816
+Guralp,Guralp MAN-EAM-0003,True,True,2,1.0,4,10,23,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-38840,1186,2025-12-20 12:52:13.018979
+pfSense,pfSense pfBlockerNG,True,True,2,1.0,2,23,23,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-31814,512,2025-12-22 12:57:04.056574
+Roxy-WI,Roxy-WI,True,True,2,2.0,3,25,45,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-31161,3225,2025-12-27 12:53:45.738773
+Apache,ShenYu,True,True,2,2.0,21,27,38,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-37580,17238,2025-12-27 12:53:45.830816
 ZTE,"ZTE F460,F660",True,True,2,1.0,2,2,4,"{'13/12/2025': {'connections': 2, 'uniq_ips': 1}, '19/12/2025': {'connections': 2, 'uniq_ips': 1}, '20/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '25/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2014-2321,1039,2025-12-13 12:52:24.044287
 Revive,Revive Adserver,True,True,2,1.0,2,10,26,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2020-8115,6319,2025-12-20 12:52:12.996304
-Wordpress,Wordpress Duplicator plugin,True,True,2,1.0,2,16,110,{},CVE-2020-11738,19693,2025-12-27 12:53:45.804493
-Jellyfin,Jellyfin,True,True,2,1.0,7,6,23,{},CVE-2021-21402,5943,2025-12-27 12:53:45.708018
-Elastic,Elasticsearch,True,True,2,2.0,28,16,89,{},CVE-2015-1427,66314,2025-12-27 12:53:45.709603
-ThoughtWorks,GoCD,True,True,2,1.0,2,5,23,{},CVE-2021-43287,4585,2025-12-27 12:53:45.699767
-h20.ai,h20.ai Dashboard,True,True,2,1.0,5,10,25,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '23/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-6038,10202,2025-12-20 12:52:12.959615
+Wordpress,Wordpress Duplicator plugin,True,True,2,1.0,2,16,110,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2020-11738,19693,2025-12-27 12:53:45.804493
+Jellyfin,Jellyfin,True,True,2,1.0,7,6,23,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2021-21402,5943,2025-12-27 12:53:45.708018
+Elastic,Elasticsearch,True,True,2,2.0,28,16,89,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2015-1427,66314,2025-12-27 12:53:45.709603
+ThoughtWorks,GoCD,True,True,2,1.0,2,5,23,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2021-43287,4585,2025-12-27 12:53:45.699767
+h20.ai,h20.ai Dashboard,True,True,2,1.0,5,10,25,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '23/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-6038,10202,2025-12-20 12:52:12.959615
 Icinga,Icinga Web 2,True,True,2,1.0,2,15,18,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-24716,5442,2025-12-20 12:52:13.029242
-Ignite Realtime,Openfire,True,True,2,1.0,2,14,29,{},CVE-2019-18394,8725,2025-12-27 12:53:45.850392
-IncomCMS,IncomCMS,True,True,2,2.0,3,26,56,{},CVE-2020-29597,49355,2025-12-27 12:53:45.697561
-Linksys,RE6500 Series,True,True,2,2.0,11,22,56,{},CVE-2020-35713,37472,2025-12-27 12:53:45.781382
-Node.js,Node.js (ejs),True,True,2,2.0,7,21,107,{},CVE-2022-29078,47713,2025-12-27 12:53:45.823773
-Yachtcontrol,Yachtcontrol,True,True,2,1.0,7,16,30,{},CVE-2019-17270,8656,2025-12-27 12:53:45.737760
-Wordpress,Wordpress Youzify plugin,True,True,2,1.0,2,2,17,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-1950,1015,2025-12-20 12:52:13.084992
-JEECG,jeecg-boot,True,True,2,2.0,110,55,46,{},CVE-2023-4450,8651,2025-12-27 12:53:45.838057
-GLPI,GLPI,True,True,2,1.0,7,7,19,{},CVE-2021-39211,6549,2025-12-27 12:53:45.689989
-Kaseya,VSA,True,True,2,2.0,2,21,54,{},CVE-2021-30118,2544,2025-12-27 12:53:45.733975
-WSO2,"WSO2 API Manager, API Microgateway",True,True,2,2.0,9,23,51,{},CVE-2020-24589,37356,2025-12-27 12:53:45.751033
+Ignite Realtime,Openfire,True,True,2,1.0,2,14,29,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2019-18394,8725,2025-12-27 12:53:45.850392
+IncomCMS,IncomCMS,True,True,2,2.0,3,26,56,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-29597,49355,2025-12-27 12:53:45.697561
+Linksys,RE6500 Series,True,True,2,2.0,11,22,56,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-35713,37472,2025-12-27 12:53:45.781382
+Node.js,Node.js (ejs),True,True,2,2.0,7,21,107,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2022-29078,47713,2025-12-27 12:53:45.823773
+Yachtcontrol,Yachtcontrol,True,True,2,1.0,7,16,30,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2019-17270,8656,2025-12-27 12:53:45.737760
+Wordpress,Wordpress Youzify plugin,True,True,2,1.0,2,2,17,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 1}, '27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2022-1950,1015,2025-12-20 12:52:13.084992
+JEECG,jeecg-boot,True,True,2,2.0,110,55,46,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-4450,8651,2025-12-27 12:53:45.838057
+GLPI,GLPI,True,True,2,1.0,7,7,19,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2021-39211,6549,2025-12-27 12:53:45.689989
+Kaseya,VSA,True,True,2,2.0,2,21,54,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-30118,2544,2025-12-27 12:53:45.733975
+WSO2,"WSO2 API Manager, API Microgateway",True,True,2,2.0,9,23,51,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-24589,37356,2025-12-27 12:53:45.751033
 dirk1983,chatgpt,True,True,2,1.0,2,13,23,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2024-27564,5001,2025-12-20 12:52:13.115681
-Buffalo,Buffalo SR-2533DHPL2 and WSR-2533DHP3,True,True,2,2.0,3,3,36,{},CVE-2021-20092,13758,2025-12-27 12:53:45.836628
-Sunhillo,Sureline,True,True,2,2.0,3,23,542,{},CVE-2021-36380,70611,2025-12-27 12:53:45.787184
-Commvault,CommCell,True,True,2,2.0,3,3,35,{},CVE-2021-34993,20573,2025-12-27 12:53:45.699418
-FIT2CLOUD,KubePi,True,True,2,1.0,3,7,22,"{'21/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '25/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-22478,16700,2025-12-21 12:53:00.076656
-ColumbiaSoft,Document Locator,True,True,2,1.0,5,37,39,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '23/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-5830,10137,2025-12-20 12:52:13.054723
-Adobe,ColdFusion,True,True,2,1.0,3,19,35,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-29300,15042,2025-12-22 12:57:04.178366
-CONTEC,SolarView Compact,True,True,2,1.0,4,24,34,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-29919,10438,2025-12-20 12:52:13.112174
+Buffalo,Buffalo SR-2533DHPL2 and WSR-2533DHP3,True,True,2,2.0,3,3,36,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-20092,13758,2025-12-27 12:53:45.836628
+Sunhillo,Sureline,True,True,2,2.0,3,23,542,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-36380,70611,2025-12-27 12:53:45.787184
+Commvault,CommCell,True,True,2,2.0,3,3,35,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-34993,20573,2025-12-27 12:53:45.699418
+FIT2CLOUD,KubePi,True,True,2,1.0,3,7,22,"{'21/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '25/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-22478,16700,2025-12-21 12:53:00.076656
+ColumbiaSoft,Document Locator,True,True,2,1.0,5,37,39,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '23/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-5830,10137,2025-12-20 12:52:13.054723
+Adobe,ColdFusion,True,True,2,1.0,3,19,35,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-29300,15042,2025-12-22 12:57:04.178366
+CONTEC,SolarView Compact,True,True,2,1.0,4,24,34,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-29919,10438,2025-12-20 12:52:13.112174
 WebIQ,WebIQ,True,True,2,1.0,2,2,31,"{'24/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2024-8752,5224,2025-12-24 12:56:38.771519
-SysAid,SysAid On-Premise,True,True,2,2.0,5,25,45,{},CVE-2023-47246,19035,2025-12-27 12:53:45.792512
-Tenda,Tenda AC11,True,True,2,2.0,10,23,544,{},CVE-2021-31755,77067,2025-12-27 12:53:45.750040
-Hongdian,H8922,True,True,2,2.0,3,3,103,{},CVE-2021-28151,43255,2025-12-27 12:53:45.673410
-Metabase,Metabase,True,True,2,1.0,7,6,24,{},CVE-2021-41277,31051,2025-12-27 12:53:45.712678
-frangoteam,FUXA,True,True,2,2.0,216,279,352,{},CVE-2023-33831,37431,2025-12-27 12:53:45.718177
-acmailer,acmailer,True,True,2,2.0,2,2,2,{},CVE-2021-20617,696,2025-12-27 12:53:45.715095
+SysAid,SysAid On-Premise,True,True,2,2.0,5,25,45,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-47246,19035,2025-12-27 12:53:45.792512
+Tenda,Tenda AC11,True,True,2,2.0,10,23,544,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-31755,77067,2025-12-27 12:53:45.750040
+Hongdian,H8922,True,True,2,2.0,3,3,103,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-28151,43255,2025-12-27 12:53:45.673410
+Metabase,Metabase,True,True,2,1.0,7,6,24,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2021-41277,31051,2025-12-27 12:53:45.712678
+frangoteam,FUXA,True,True,2,2.0,216,279,352,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-33831,37431,2025-12-27 12:53:45.718177
+acmailer,acmailer,True,True,2,2.0,2,2,2,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-20617,696,2025-12-27 12:53:45.715095
 SpectoLabs,HoverFly,True,True,2,1.0,6,4,25,"{'24/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2024-45388,4875,2025-12-24 12:56:38.743271
-Sitecore,"Experience Manager, Experience Platform, and Experience Commerce",True,True,2,2.0,5,28,45,{},CVE-2023-35813,13576,2025-12-27 12:53:45.689578
-D-Link,D-Link multiple routers,True,True,2,2.0,2,22,508,{},CVE-2018-6530,79006,2025-12-27 12:53:45.793320
-Apache,Arrow,True,True,2,2.0,18,30,38,{},CVE-2023-47248,4835,2025-12-27 12:53:45.857490
-SAP,NetWeaver Development Infrastructure,True,True,2,2.0,3,23,40,{},CVE-2021-33690,15910,2025-12-27 12:53:45.779740
+Sitecore,"Experience Manager, Experience Platform, and Experience Commerce",True,True,2,2.0,5,28,45,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-35813,13576,2025-12-27 12:53:45.689578
+D-Link,D-Link multiple routers,True,True,2,2.0,2,22,508,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-6530,79006,2025-12-27 12:53:45.793320
+Apache,Arrow,True,True,2,2.0,18,30,38,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-47248,4835,2025-12-27 12:53:45.857490
+SAP,NetWeaver Development Infrastructure,True,True,2,2.0,3,23,40,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-33690,15910,2025-12-27 12:53:45.779740
 Wordpress,Wordpress EventON plugin,True,True,2,1.0,2,2,24,"{'25/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2024-0235,639,2025-12-25 12:55:51.780333
-phpCollab,phpCollab,True,True,2,2.0,11,6,33,{},CVE-2017-6090,51155,2025-12-27 12:53:45.683021
-Boa,Boa,True,True,2,1.0,7,7,17,{},CVE-2017-9833,5044,2025-12-27 12:53:45.685524
+phpCollab,phpCollab,True,True,2,2.0,11,6,33,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2017-6090,51155,2025-12-27 12:53:45.683021
+Boa,Boa,True,True,2,1.0,7,7,17,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2017-9833,5044,2025-12-27 12:53:45.685524
 Dahua,Dahua Smart Park Integrated Management Platform,True,True,2,1.0,5,10,51,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2023-7309,1872,2025-12-20 12:52:13.027722
-JFrog,Artifactory,True,True,2,1.0,3,31,50,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2019-9733,32752,2025-12-20 12:52:13.062867
-D-Link,D-Link D-View 8,True,True,2,1.0,5,35,33,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '21/12/2025': {'connections': 2, 'uniq_ips': 1}, '23/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-5074,10209,2025-12-20 12:52:13.129019
+JFrog,Artifactory,True,True,2,1.0,3,31,50,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2019-9733,32752,2025-12-20 12:52:13.062867
+D-Link,D-Link D-View 8,True,True,2,1.0,5,35,33,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '21/12/2025': {'connections': 2, 'uniq_ips': 1}, '23/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-5074,10209,2025-12-20 12:52:13.129019
 Adobe,ColdFusion,True,True,2,1.0,2,2,2,"{'31/12/2024': {'connections': 2, 'uniq_ips': 1}}",CVE-2023-26360,2,2024-12-31 12:42:05.570163
-HPE,HPE Edgeline Infrastructure Manager,True,True,2,2.0,3,23,43,{},CVE-2021-29203,23573,2025-12-27 12:53:45.664805
+HPE,HPE Edgeline Infrastructure Manager,True,True,2,2.0,3,23,43,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-29203,23573,2025-12-27 12:53:45.664805
 Apache,Struts,True,True,2,1.0,9,37,24,"{'15/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2017-5638,12071,2025-12-15 13:01:17.499797
-Oracle,GlassFish,True,True,2,1.0,2,5,18,{},CVE-2017-1000028,2164,2025-12-27 12:53:45.730257
-Mitel,MiCollab,True,True,2,1.0,6,37,69,{},CVE-2024-41713,25765,2025-12-27 12:53:45.795317
-ECOA,ECOA Building Automation System,True,True,2,2.0,3,3,23,{},CVE-2021-41293,10876,2025-12-27 12:53:45.799228
-jQueryFileTree,jQueryFileTree,True,True,2,2.0,2,5,28,{},CVE-2017-1000170,30815,2025-12-27 12:53:45.665026
+Oracle,GlassFish,True,True,2,1.0,2,5,18,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2017-1000028,2164,2025-12-27 12:53:45.730257
+Mitel,MiCollab,True,True,2,1.0,6,37,69,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2024-41713,25765,2025-12-27 12:53:45.795317
+ECOA,ECOA Building Automation System,True,True,2,2.0,3,3,23,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-41293,10876,2025-12-27 12:53:45.799228
+jQueryFileTree,jQueryFileTree,True,True,2,2.0,2,5,28,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2017-1000170,30815,2025-12-27 12:53:45.665026
 Juniper,Junos OS (J-Web),True,True,2,1.0,5,13,23,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2024-21620,481,2025-12-20 12:52:13.096923
 FlowiseAI,Flowise,True,True,2,1.0,2,2,26,"{'24/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2024-8181,10750,2025-12-24 12:56:38.740653
 Chamilo,LMS,True,True,2,1.0,5,14,45,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2021-34187,20112,2025-12-20 12:52:13.020746
-Barco/AWIND,Barco/AWIND OEM,True,True,2,2.0,10,28,56,{},CVE-2019-3929,34069,2025-12-27 12:53:45.679098
-FIT2CLOUD,KubePi,True,True,2,2.0,4,20,32,{},CVE-2024-36111,10037,2025-12-27 12:53:45.707408
-FatPipe,FatPipe WARP/IPVPN/MPVPN,True,True,2,2.0,3,23,34,{},CVE-2021-27855,9271,2025-12-27 12:53:45.786566
-Wordpress,BuddyPress plugin,True,True,2,2.0,3,5,87,{},CVE-2021-21389,35547,2025-12-27 12:53:45.846455
-FSMLabs,TimeKeeper,True,True,2,2.0,5,20,83,{},CVE-2023-31465,36347,2025-12-27 12:53:45.765861
-VMware,VMware View Planner 4.x,True,True,2,2.0,3,25,106,{},CVE-2021-21978,36810,2025-12-27 12:53:45.749586
-Emerson Dixell,XWEB-500,True,True,2,1.0,5,33,46,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-45420,13043,2025-12-20 12:52:13.086480
-Weaver,Weaver E-Office,True,True,2,2.0,6,24,52,{},CVE-2023-2648,18517,2025-12-27 12:53:45.804094
-Patton,SmartNode SN200,True,True,2,1.0,5,31,31,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-41109,9370,2025-12-20 12:52:13.061466
-Honeywell,Honeywell PM43,True,True,2,2.0,5,28,37,{},CVE-2023-3710,10617,2025-12-27 12:53:45.790392
+Barco/AWIND,Barco/AWIND OEM,True,True,2,2.0,10,28,56,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2019-3929,34069,2025-12-27 12:53:45.679098
+FIT2CLOUD,KubePi,True,True,2,2.0,4,20,32,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2024-36111,10037,2025-12-27 12:53:45.707408
+FatPipe,FatPipe WARP/IPVPN/MPVPN,True,True,2,2.0,3,23,34,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-27855,9271,2025-12-27 12:53:45.786566
+Wordpress,BuddyPress plugin,True,True,2,2.0,3,5,87,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-21389,35547,2025-12-27 12:53:45.846455
+FSMLabs,TimeKeeper,True,True,2,2.0,5,20,83,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-31465,36347,2025-12-27 12:53:45.765861
+VMware,VMware View Planner 4.x,True,True,2,2.0,3,25,106,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-21978,36810,2025-12-27 12:53:45.749586
+Emerson Dixell,XWEB-500,True,True,2,1.0,5,33,46,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-45420,13043,2025-12-20 12:52:13.086480
+Weaver,Weaver E-Office,True,True,2,2.0,6,24,52,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-2648,18517,2025-12-27 12:53:45.804094
+Patton,SmartNode SN200,True,True,2,1.0,5,31,31,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-41109,9370,2025-12-20 12:52:13.061466
+Honeywell,Honeywell PM43,True,True,2,2.0,5,28,37,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-3710,10617,2025-12-27 12:53:45.790392
 Ericsson,CodeChecker,True,True,2,1.0,2,70,44,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '23/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2024-10081,10432,2025-12-22 12:57:04.215938
-Webmin,Webmin,True,True,2,2.0,15,6,35,{},CVE-2019-15642,49368,2025-12-27 12:53:45.826715
-mongo-express,mongo-express,True,True,2,2.0,8,23,65,{},CVE-2019-10758,34353,2025-12-27 12:53:45.692600
-PrestaShop,NDK Design for PrestaShop,True,True,2,2.0,2,25,34,{},CVE-2023-46347,9515,2025-12-27 12:53:45.742449
+Webmin,Webmin,True,True,2,2.0,15,6,35,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2019-15642,49368,2025-12-27 12:53:45.826715
+mongo-express,mongo-express,True,True,2,2.0,8,23,65,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2019-10758,34353,2025-12-27 12:53:45.692600
+PrestaShop,NDK Design for PrestaShop,True,True,2,2.0,2,25,34,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-46347,9515,2025-12-27 12:53:45.742449
 Progress,MOVEit Transfer,True,True,2,1.0,2,2,2,"{'01/07/2024': {'connections': 2, 'uniq_ips': 1}, '02/07/2024': {'connections': 2, 'uniq_ips': 1}, '07/07/2024': {'connections': 2, 'uniq_ips': 1}, '08/07/2024': {'connections': 2, 'uniq_ips': 1}, '15/07/2024': {'connections': 2, 'uniq_ips': 1}, '16/07/2024': {'connections': 2, 'uniq_ips': 1}, '21/12/2024': {'connections': 2, 'uniq_ips': 1}, '22/12/2024': {'connections': 2, 'uniq_ips': 1}, '28/07/2025': {'connections': 2, 'uniq_ips': 1}, '29/07/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2023-34362,10,2024-07-02 12:01:13.979426
 Wordpress,Wordpress Hunk Companion plugin,True,True,2,1.0,2,68,49,"{'24/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2024-9707,581,2025-12-24 12:56:38.652670
-Atlassian,Crowd/Crowd Data Center,True,True,2,2.0,11,24,136,{},CVE-2019-11580,60699,2025-12-27 12:53:45.797580
-D-Link,"DIR-810L, DIR-820L/LW, DIR-826L, DIR-830L, DIR-836L",True,True,2,2.0,3,22,548,{},CVE-2021-45382,69432,2025-12-27 12:53:45.729451
-NextGen Healthcare,Mirth Connect,True,True,2,2.0,10,49,130,{},CVE-2023-43208,85866,2025-12-27 12:53:45.806866
-Wordpress,Wordpress WPCargo Track & Trace plugin,True,True,2,2.0,3,28,146,{},CVE-2021-25003,101745,2025-12-27 12:53:45.687362
-Micro Focus,Operations Bridge Reporter (OBR),True,True,2,2.0,3,25,572,{},CVE-2021-22502,86990,2025-12-27 12:53:45.786367
-Barcode,Barcode (GLPI plugin),True,True,2,1.0,4,7,18,{},CVE-2021-43778,5249,2025-12-27 12:53:45.790214
-Motorola,Binatone Hubble Camera,True,True,2,2.0,3,7,138,{},CVE-2021-3577,65019,2025-12-27 12:53:45.743664
-RosarioSIS,RosarioSIS,True,True,2,1.0,4,29,36,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-44427,11021,2025-12-20 12:52:12.972772
-Oracle,BI Publisher (Oracle Fusion Middleware),True,True,2,2.0,8,4,32,{},CVE-2019-2616,29352,2025-12-27 12:53:45.769258
-Progress,MOVEit Transfer,True,True,2,2.0,6,27,41,{},CVE-2023-36934,12531,2025-12-27 12:53:45.800157
-Grafana,Grafana,True,True,2,1.0,7,7,21,{},CVE-2021-39226,10933,2025-12-27 12:53:45.803196
-Dahua,Smart Park Management,True,True,2,2.0,5,25,39,{},CVE-2023-3836,11497,2025-12-27 12:53:45.783077
-vBulletin,vBulletin,True,True,2,2.0,4,20,39,{},CVE-2023-25135,13854,2025-12-27 12:53:45.714112
-Apache,OFBiz,True,True,2,1.0,5,12,33,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '23/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-50968,25794,2025-12-20 12:52:13.066299
-Microsoft,Open Management Infrastructure (OMI),True,True,2,2.0,13,30,89,{},CVE-2021-38647,20327,2025-12-27 12:53:45.695423
-Wordpress,Wordpress Kaswara Modern VC Addons plugin,True,True,2,2.0,3,27,109,{},CVE-2021-24284,37439,2025-12-27 12:53:45.796585
-Chamilo,Chamilo,True,True,2,1.0,4,23,39,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-34960,11817,2025-12-20 12:52:12.982761
+Atlassian,Crowd/Crowd Data Center,True,True,2,2.0,11,24,136,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2019-11580,60699,2025-12-27 12:53:45.797580
+D-Link,"DIR-810L, DIR-820L/LW, DIR-826L, DIR-830L, DIR-836L",True,True,2,2.0,3,22,548,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-45382,69432,2025-12-27 12:53:45.729451
+NextGen Healthcare,Mirth Connect,True,True,2,2.0,10,49,130,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-43208,85866,2025-12-27 12:53:45.806866
+Wordpress,Wordpress WPCargo Track & Trace plugin,True,True,2,2.0,3,28,146,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-25003,101745,2025-12-27 12:53:45.687362
+Micro Focus,Operations Bridge Reporter (OBR),True,True,2,2.0,3,25,572,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-22502,86990,2025-12-27 12:53:45.786367
+Barcode,Barcode (GLPI plugin),True,True,2,1.0,4,7,18,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2021-43778,5249,2025-12-27 12:53:45.790214
+Motorola,Binatone Hubble Camera,True,True,2,2.0,3,7,138,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-3577,65019,2025-12-27 12:53:45.743664
+RosarioSIS,RosarioSIS,True,True,2,1.0,4,29,36,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-44427,11021,2025-12-20 12:52:12.972772
+Oracle,BI Publisher (Oracle Fusion Middleware),True,True,2,2.0,8,4,32,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2019-2616,29352,2025-12-27 12:53:45.769258
+Progress,MOVEit Transfer,True,True,2,2.0,6,27,41,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-36934,12531,2025-12-27 12:53:45.800157
+Grafana,Grafana,True,True,2,1.0,7,7,21,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2021-39226,10933,2025-12-27 12:53:45.803196
+Dahua,Smart Park Management,True,True,2,2.0,5,25,39,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-3836,11497,2025-12-27 12:53:45.783077
+vBulletin,vBulletin,True,True,2,2.0,4,20,39,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-25135,13854,2025-12-27 12:53:45.714112
+Apache,OFBiz,True,True,2,1.0,5,12,33,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '23/12/2025': {'connections': 2, 'uniq_ips': 1}, '24/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-50968,25794,2025-12-20 12:52:13.066299
+Microsoft,Open Management Infrastructure (OMI),True,True,2,2.0,13,30,89,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-38647,20327,2025-12-27 12:53:45.695423
+Wordpress,Wordpress Kaswara Modern VC Addons plugin,True,True,2,2.0,3,27,109,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-24284,37439,2025-12-27 12:53:45.796585
+Chamilo,Chamilo,True,True,2,1.0,4,23,39,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-34960,11817,2025-12-20 12:52:12.982761
 Geutebruck,G-Cam/EFD-2250,True,True,2,1.0,2,2,2,"{'15/09/2024': {'connections': 2, 'uniq_ips': 1}}",CVE-2017-5173,3,2024-09-15 12:39:34.683092
-Wordpress,Wordpress WooCommerce Help Scout WordPress plugin,True,True,2,2.0,3,23,27,{},CVE-2021-24212,760,2025-12-27 12:53:45.858688
-SolarWinds,SolarWinds Orion,True,True,2,1.0,7,16,37,{},CVE-2020-10148,15413,2025-12-27 12:53:45.754638
-CloudPanel,CloudPanel,True,True,2,2.0,4,26,47,{},CVE-2023-35885,20861,2025-12-27 12:53:45.681950
-Artica,Artica Web Proxy,True,True,2,1.0,4,16,41,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-17505,50444,2025-12-20 12:52:13.090435
-F5,F5 Big-IP,True,True,2,2.0,15,27,388,{},CVE-2020-5902,284516,2025-12-27 12:53:45.669160
-SAP,NetWeaver AS JAVA (LM Configuration Wizard),True,True,2,2.0,9,22,41,{},CVE-2020-6287,35342,2025-12-27 12:53:45.853228
+Wordpress,Wordpress WooCommerce Help Scout WordPress plugin,True,True,2,2.0,3,23,27,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-24212,760,2025-12-27 12:53:45.858688
+SolarWinds,SolarWinds Orion,True,True,2,1.0,7,16,37,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2020-10148,15413,2025-12-27 12:53:45.754638
+CloudPanel,CloudPanel,True,True,2,2.0,4,26,47,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-35885,20861,2025-12-27 12:53:45.681950
+Artica,Artica Web Proxy,True,True,2,1.0,4,16,41,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-17505,50444,2025-12-20 12:52:13.090435
+F5,F5 Big-IP,True,True,2,2.0,15,27,388,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-5902,284516,2025-12-27 12:53:45.669160
+SAP,NetWeaver AS JAVA (LM Configuration Wizard),True,True,2,2.0,9,22,41,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-6287,35342,2025-12-27 12:53:45.853228
 Appwrite,Appwrite,True,True,2,1.0,2,19,18,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2023-27159,14673,2025-12-20 12:52:13.143017
-Wordpress,Wordpress Elfinder plugin,True,True,2,2.0,9,25,37,{},CVE-2020-35235,13264,2025-12-27 12:53:45.822553
-Draytek,"Vigor3900, Vigor2960, Vigor300B",True,True,2,2.0,3,24,330,{},CVE-2020-15415,24805,2025-12-27 12:53:45.674653
-Monitorr,Monitorr,True,True,2,1.0,9,24,77,"{'24/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-26775,65836,2025-12-24 12:56:38.677108
-Control iD,Control iD iDSecure,True,True,2,2.0,2,31,32,{},CVE-2023-6329,701,2025-12-27 12:53:45.763604
-Oracle,Oracle Weblogic Server,True,True,2,2.0,8,23,47,{},CVE-2020-14882,43384,2025-12-27 12:53:45.755623
+Wordpress,Wordpress Elfinder plugin,True,True,2,2.0,9,25,37,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-35235,13264,2025-12-27 12:53:45.822553
+Draytek,"Vigor3900, Vigor2960, Vigor300B",True,True,2,2.0,3,24,330,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-15415,24805,2025-12-27 12:53:45.674653
+Monitorr,Monitorr,True,True,2,1.0,9,24,77,"{'24/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-26775,65836,2025-12-24 12:56:38.677108
+Control iD,Control iD iDSecure,True,True,2,2.0,2,31,32,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-6329,701,2025-12-27 12:53:45.763604
+Oracle,Oracle Weblogic Server,True,True,2,2.0,8,23,47,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-14882,43384,2025-12-27 12:53:45.755623
 CERIO,CERIO DT-300N,True,True,2,1.0,4,10,37,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2018-18852,8955,2025-12-20 12:52:12.962304
 Apache,Solr,True,True,2,1.0,2,4,3,"{'04/12/2025': {'connections': 2, 'uniq_ips': 1}, '14/12/2025': {'connections': 2, 'uniq_ips': 1}, '15/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2019-0193,132,2025-12-04 12:59:17.602860
-TP-Link,TP-Link TL-WR840N EU v5,True,True,2,2.0,9,26,100,{},CVE-2021-41653,20390,2025-12-27 12:53:45.700944
-Wordpress,Wordpress Gift Voucher plugin,True,True,2,1.0,5,23,45,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-16159,34085,2025-12-22 12:57:04.145368
+TP-Link,TP-Link TL-WR840N EU v5,True,True,2,2.0,9,26,100,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-41653,20390,2025-12-27 12:53:45.700944
+Wordpress,Wordpress Gift Voucher plugin,True,True,2,1.0,5,23,45,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-16159,34085,2025-12-22 12:57:04.145368
 Sahi Pro,Sahi Pro,True,True,2,1.0,2,8,19,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2018-20470,4372,2025-12-20 12:52:12.976895
-Dell,Dell EMC Avamar Server and Dell EMC Integrated Data Protection Appliance,True,True,2,1.0,4,24,613,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-1217,66857,2025-12-22 12:57:04.174083
-Sitecore,Sitecore XP,True,True,2,2.0,7,21,89,{},CVE-2021-42237,17932,2025-12-27 12:53:45.685119
-D-Link,D-Link DSL-2888A,True,True,2,2.0,10,4,40,{},CVE-2020-24581,48403,2025-12-27 12:53:45.684579
+Dell,Dell EMC Avamar Server and Dell EMC Integrated Data Protection Appliance,True,True,2,1.0,4,24,613,"{'22/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-1217,66857,2025-12-22 12:57:04.174083
+Sitecore,Sitecore XP,True,True,2,2.0,7,21,89,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-42237,17932,2025-12-27 12:53:45.685119
+D-Link,D-Link DSL-2888A,True,True,2,2.0,10,4,40,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-24581,48403,2025-12-27 12:53:45.684579
 Zyxel,Zyxel DX5401-B0,True,True,2,1.0,5,9,27,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2023-28770,5751,2025-12-20 12:52:13.072589
-SonicWall,SonicWall GMS and Analytics,True,True,2,2.0,5,25,44,{},CVE-2023-34133,14501,2025-12-27 12:53:45.694442
-Roundcube,Roundcube Webmail,True,True,2,2.0,3,24,67,{},CVE-2020-12641,5976,2025-12-27 12:53:45.686881
-Zimbra,Zimbra Collaboration Suite,True,True,2,2.0,15,23,4437,{},CVE-2020-7796,795143,2025-12-27 12:53:45.760986
-WAVLINK,WAVLINK WN575A4 and WN579X3,True,True,2,2.0,12,24,52,{},CVE-2020-13117,32690,2025-12-27 12:53:45.668180
-PHPGurukul,Hospital Management System,True,True,2,1.0,4,28,33,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-22165,12554,2025-12-20 12:52:13.089348
-Kramer,VIAware,True,True,2,2.0,4,22,116,{},CVE-2021-36356,25139,2025-12-27 12:53:45.738180
-Totolink,Totolink A3700R,True,True,2,1.0,4,32,41,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-46574,11438,2025-12-20 12:52:13.108777
-CSE Bookstore,CSE Bookstore,True,True,2,2.0,3,24,44,{},CVE-2020-36112,33884,2025-12-27 12:53:45.720585
-Schneider Electric,"EVlink City, Parking and Smart Wallbox",True,True,2,2.0,10,23,42,{},CVE-2021-22707,40300,2025-12-27 12:53:45.695065
-PHPSHE,PHPSHE,True,True,2,1.0,2,5,25,{},CVE-2019-9762,10441,2025-12-27 12:53:45.835124
-Apache,Cocoon,True,True,2,2.0,12,6,33,{},CVE-2020-11991,30689,2025-12-27 12:53:45.746035
-Fortra,GoAnywhere MFT,True,True,2,2.0,5,8,7135,{},CVE-2023-0669,6325214,2025-12-27 12:53:45.718378
+SonicWall,SonicWall GMS and Analytics,True,True,2,2.0,5,25,44,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-34133,14501,2025-12-27 12:53:45.694442
+Roundcube,Roundcube Webmail,True,True,2,2.0,3,24,67,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-12641,5976,2025-12-27 12:53:45.686881
+Zimbra,Zimbra Collaboration Suite,True,True,2,2.0,15,23,4437,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-7796,795143,2025-12-27 12:53:45.760986
+WAVLINK,WAVLINK WN575A4 and WN579X3,True,True,2,2.0,12,24,52,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-13117,32690,2025-12-27 12:53:45.668180
+PHPGurukul,Hospital Management System,True,True,2,1.0,4,28,33,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-22165,12554,2025-12-20 12:52:13.089348
+Kramer,VIAware,True,True,2,2.0,4,22,116,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-36356,25139,2025-12-27 12:53:45.738180
+Totolink,Totolink A3700R,True,True,2,1.0,4,32,41,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-46574,11438,2025-12-20 12:52:13.108777
+CSE Bookstore,CSE Bookstore,True,True,2,2.0,3,24,44,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-36112,33884,2025-12-27 12:53:45.720585
+Schneider Electric,"EVlink City, Parking and Smart Wallbox",True,True,2,2.0,10,23,42,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-22707,40300,2025-12-27 12:53:45.695065
+PHPSHE,PHPSHE,True,True,2,1.0,2,5,25,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2019-9762,10441,2025-12-27 12:53:45.835124
+Apache,Cocoon,True,True,2,2.0,12,6,33,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-11991,30689,2025-12-27 12:53:45.746035
+Fortra,GoAnywhere MFT,True,True,2,2.0,5,8,7135,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-0669,6325214,2025-12-27 12:53:45.718378
 Hot-World GmbH,Repetier Server,True,True,2,1.0,2,10,17,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2023-31059,2517,2025-12-20 12:52:13.101520
-GL.iNet,GL.iNet devices,True,True,2,1.0,4,5,19,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-31478,4114,2025-12-20 12:52:12.988691
+GL.iNet,GL.iNet devices,True,True,2,1.0,4,5,19,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-31478,4114,2025-12-20 12:52:12.988691
 IceWarp,IceWarp Mail Server,True,True,2,1.0,2,10,19,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2019-12593,12395,2025-12-20 12:52:13.023340
-Cisco,HyperFlex HX,True,True,2,2.0,3,23,98,{},CVE-2021-1497,39046,2025-12-27 12:53:45.839250
-OpenMRS,OpenMRS,True,True,2,2.0,2,23,55,{},CVE-2018-19276,4592,2025-12-27 12:53:45.761858
-Artica,Artica Web Proxy,True,True,2,2.0,15,12,46,{},CVE-2020-17506,54583,2025-12-27 12:53:45.706550
+Cisco,HyperFlex HX,True,True,2,2.0,3,23,98,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-1497,39046,2025-12-27 12:53:45.839250
+OpenMRS,OpenMRS,True,True,2,2.0,2,23,55,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-19276,4592,2025-12-27 12:53:45.761858
+Artica,Artica Web Proxy,True,True,2,2.0,15,12,46,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2020-17506,54583,2025-12-27 12:53:45.706550
 Quest,Quest KACE K1000 Systems Management Appliance,True,True,2,1.0,2,2,2,"{'29/06/2024': {'connections': 2, 'uniq_ips': 1}, '30/06/2024': {'connections': 2, 'uniq_ips': 1}}",CVE-2019-20504,2,2024-06-30 06:01:20.363331
-Elastic,Kibana,True,True,2,1.0,5,13,20,{},CVE-2018-17246,7314,2025-12-27 12:53:45.754441
-Paessler,PRTG Network Monitor,True,True,2,2.0,2,22,21,{},CVE-2018-19410,511,2025-12-27 12:53:45.701152
-Spring,Spring Data Commons,True,True,2,2.0,23,27,61,{},CVE-2018-1273,77580,2025-12-27 12:53:45.857284
-rConfig,rConfig,True,True,2,1.0,5,21,32,{},CVE-2019-16662,16728,2025-12-27 12:53:45.819770
-Wordpress,Wordpress Media Library Assistant plugin,True,True,2,2.0,3,34,116,{},CVE-2023-4634,36587,2025-12-27 12:53:45.850114
-DedeCMS,DedeCMS,True,True,2,1.0,2,5,16,{},CVE-2018-7700,7100,2025-12-27 12:53:45.744075
-VMware,Aria Operations for Networks,True,True,2,2.0,7,24,46,{},CVE-2023-20887,18400,2025-12-27 12:53:45.824587
+Elastic,Kibana,True,True,2,1.0,5,13,20,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2018-17246,7314,2025-12-27 12:53:45.754441
+Paessler,PRTG Network Monitor,True,True,2,2.0,2,22,21,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-19410,511,2025-12-27 12:53:45.701152
+Spring,Spring Data Commons,True,True,2,2.0,23,27,61,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-1273,77580,2025-12-27 12:53:45.857284
+rConfig,rConfig,True,True,2,1.0,5,21,32,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2019-16662,16728,2025-12-27 12:53:45.819770
+Wordpress,Wordpress Media Library Assistant plugin,True,True,2,2.0,3,34,116,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-4634,36587,2025-12-27 12:53:45.850114
+DedeCMS,DedeCMS,True,True,2,1.0,2,5,16,"{'27/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2018-7700,7100,2025-12-27 12:53:45.744075
+VMware,Aria Operations for Networks,True,True,2,2.0,7,24,46,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-20887,18400,2025-12-27 12:53:45.824587
 Totolink,A3002RU,True,True,2,1.0,2,2,2,"{'06/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2018-13307,264,2025-12-06 12:51:22.434935
-Home Assistant,Home Assistance (Supervisor),True,True,2,2.0,8,25,87,{},CVE-2023-27482,110746,2025-12-27 12:53:45.737960
-Lumis,LumisXP,True,True,2,2.0,10,22,38,{},CVE-2021-27931,26262,2025-12-27 12:53:45.765266
-PyTorch,PyTorch TorchServe,True,True,2,2.0,3,31,29,{},CVE-2023-43654,449,2025-12-27 12:53:45.801254
-Oracle,Oracle Weblogic Server,True,True,2,2.0,5,23,66,{},CVE-2018-2894,57010,2025-12-27 12:53:45.683424
-PrestaShop,Attribute Wizard addon for PrestaShop,True,True,2,2.0,2,24,45,{},CVE-2018-10942,42688,2025-12-27 12:53:45.751538
-Lexmark,Lexmark,True,True,2,1.0,4,7,18,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-26067,8906,2025-12-20 12:52:13.144948
-JEECG,jeecg-boot,True,True,2,2.0,3,21,32,{},CVE-2023-34659,10709,2025-12-27 12:53:45.857686
-Wordpress,Wordpress Oturia Smart Google Code Inserter plugin,True,True,2,2.0,2,23,47,{},CVE-2018-3810,51144,2025-12-27 12:53:45.747900
-GeoServer,GeoServer,True,True,2,2.0,82,65,67,{},CVE-2023-43795,37698,2025-12-27 12:53:45.778851
+Home Assistant,Home Assistance (Supervisor),True,True,2,2.0,8,25,87,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-27482,110746,2025-12-27 12:53:45.737960
+Lumis,LumisXP,True,True,2,2.0,10,22,38,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2021-27931,26262,2025-12-27 12:53:45.765266
+PyTorch,PyTorch TorchServe,True,True,2,2.0,3,31,29,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-43654,449,2025-12-27 12:53:45.801254
+Oracle,Oracle Weblogic Server,True,True,2,2.0,5,23,66,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-2894,57010,2025-12-27 12:53:45.683424
+PrestaShop,Attribute Wizard addon for PrestaShop,True,True,2,2.0,2,24,45,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-10942,42688,2025-12-27 12:53:45.751538
+Lexmark,Lexmark,True,True,2,1.0,4,7,18,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}, '26/12/2025': {'connections': 2, 'uniq_ips': 2}, '27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-26067,8906,2025-12-20 12:52:13.144948
+JEECG,jeecg-boot,True,True,2,2.0,3,21,32,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-34659,10709,2025-12-27 12:53:45.857686
+Wordpress,Wordpress Oturia Smart Google Code Inserter plugin,True,True,2,2.0,2,23,47,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-3810,51144,2025-12-27 12:53:45.747900
+GeoServer,GeoServer,True,True,2,2.0,82,65,67,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2023-43795,37698,2025-12-27 12:53:45.778851
 CGit,CGit,True,True,2,1.0,2,17,14,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2018-14912,5019,2025-12-20 12:52:13.139734
-LG,NAS N1A1,True,True,2,2.0,11,25,53,{},CVE-2018-14839,50913,2025-12-27 12:53:45.741847
+LG,NAS N1A1,True,True,2,2.0,11,25,53,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-14839,50913,2025-12-27 12:53:45.741847
 Mirko BÃ¶er Software Development,SuperWebMailer,True,True,2,1.0,5,17,23,"{'20/12/2025': {'connections': 2, 'uniq_ips': 1}}",CVE-2023-38192,7386,2025-12-20 12:52:13.113444
-Seagate,Seagate NAS OS,True,True,2,2.0,16,7,28,{},CVE-2018-12296,43415,2025-12-27 12:53:45.802465
-LG,SuperSign CMS,True,True,2,2.0,2,23,122,{},CVE-2018-17173,5911,2025-12-27 12:53:45.695642
+Seagate,Seagate NAS OS,True,True,2,2.0,16,7,28,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-12296,43415,2025-12-27 12:53:45.802465
+LG,SuperSign CMS,True,True,2,2.0,2,23,122,"{'27/12/2025': {'connections': 2, 'uniq_ips': 2}}",CVE-2018-17173,5911,2025-12-27 12:53:45.695642
 Technicolor,Technicolor TC7200,True,True,1,1.0,1,1,1,"{'11/11/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2014-1677,213,2025-11-11 12:54:39.728649
 IBM,BigFix,True,True,1,1.0,1,1,1,"{'07/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2019-4061,18187,2025-12-07 12:50:26.666458
 TopThink,ThinkPHP3,True,True,1,1.0,1,1,1,"{'15/07/2024': {'connections': 1, 'uniq_ips': 1}, '16/07/2024': {'connections': 1, 'uniq_ips': 1}, '02/11/2024': {'connections': 1, 'uniq_ips': 1}, '03/11/2024': {'connections': 1, 'uniq_ips': 1}, '22/05/2025': {'connections': 1, 'uniq_ips': 1}, '23/05/2025': {'connections': 1, 'uniq_ips': 1}, '24/07/2025': {'connections': 1, 'uniq_ips': 1}, '25/07/2025': {'connections': 1, 'uniq_ips': 1}, '11/08/2025': {'connections': 1, 'uniq_ips': 1}, '12/08/2025': {'connections': 1, 'uniq_ips': 1}, '27/08/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2021-44892,1,2024-07-16 06:01:18.743265
-Progress,Chef Automate,True,True,1,1.0,1,6,18,{},CVE-2025-8868,219,2025-12-27 12:53:45.711425
-Elber,Elber (multiple products),True,True,1,1.0,82,44,38,"{'15/12/2025': {'connections': 1, 'uniq_ips': 1}, '26/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-0674,1970,2025-12-15 13:01:17.490031
-Node.js,Node.js,True,True,1,1.0,16,30,25,{},CVE-2021-21315,18335,2025-12-27 12:53:45.775169
-Hongdian,Hongdian H8922,True,True,1,1.0,1,3,34,{},CVE-2021-28150,1367,2025-12-27 12:53:45.674454
+Progress,Chef Automate,True,True,1,1.0,1,6,18,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-8868,219,2025-12-27 12:53:45.711425
+Elber,Elber (multiple products),True,True,1,1.0,82,44,38,"{'15/12/2025': {'connections': 1, 'uniq_ips': 1}, '26/12/2025': {'connections': 1, 'uniq_ips': 1}, '27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-0674,1970,2025-12-15 13:01:17.490031
+Node.js,Node.js,True,True,1,1.0,16,30,25,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2021-21315,18335,2025-12-27 12:53:45.775169
+Hongdian,Hongdian H8922,True,True,1,1.0,1,3,34,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2021-28150,1367,2025-12-27 12:53:45.674454
 PuneethReddyHC,PuneethReddyHC,True,True,1,1.0,4,28,34,"{'19/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2021-41649,12974,2025-12-19 12:56:29.655498
 UniSharp,Laravel Filemanager,True,True,1,1.0,4,3,7,"{'14/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2022-40734,144,2025-12-14 12:52:12.969571
-D-Link,D-Link DSL-2750U,True,True,1,1.0,13,6,24,{},CVE-2021-3708,7391,2025-12-27 12:53:45.700162
+D-Link,D-Link DSL-2750U,True,True,1,1.0,13,6,24,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2021-3708,7391,2025-12-27 12:53:45.700162
 Totolink,Totolink N600R,True,True,1,1.0,1,1,1,"{'20/04/2025': {'connections': 1, 'uniq_ips': 1}, '28/06/2025': {'connections': 1, 'uniq_ips': 1}, '29/06/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2022-28912,1,2025-04-20 12:43:37.112621
-Carel,Carel pCOWeb,True,True,1,1.0,1,3,34,{},CVE-2019-11370,39483,2025-12-27 12:53:45.671740
-Hongdian,Hongdian H8922,True,True,1,1.0,1,3,31,{},CVE-2021-28149,21796,2025-12-27 12:53:45.731967
-Parse Community,Parse Server,True,True,1,1.0,1,3,3,{},CVE-2025-53364,22,2025-12-27 12:53:45.697992
-Dassualt Systems,DELMIA Apriso,True,True,1,1.0,1,22,40,{},CVE-2025-6205,581,2025-12-27 12:53:45.728054
-FreePBX,FreePBX,True,True,1,1.0,3,22,79,"{'21/12/2025': {'connections': 1, 'uniq_ips': 1}, '26/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-57819,2637,2025-12-21 12:53:00.050071
+Carel,Carel pCOWeb,True,True,1,1.0,1,3,34,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2019-11370,39483,2025-12-27 12:53:45.671740
+Hongdian,Hongdian H8922,True,True,1,1.0,1,3,31,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2021-28149,21796,2025-12-27 12:53:45.731967
+Parse Community,Parse Server,True,True,1,1.0,1,3,3,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-53364,22,2025-12-27 12:53:45.697992
+Dassualt Systems,DELMIA Apriso,True,True,1,1.0,1,22,40,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-6205,581,2025-12-27 12:53:45.728054
+FreePBX,FreePBX,True,True,1,1.0,3,22,79,"{'21/12/2025': {'connections': 1, 'uniq_ips': 1}, '26/12/2025': {'connections': 1, 'uniq_ips': 1}, '27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-57819,2637,2025-12-21 12:53:00.050071
 Ruijie Networks,Ruijie RG-EW Series Routers,True,True,1,1.0,1,4,3,"{'07/12/2025': {'connections': 1, 'uniq_ips': 1}, '18/12/2025': {'connections': 1, 'uniq_ips': 1}, '19/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2021-43163,1093,2025-12-07 12:50:26.622781
 F5,BIG-IP,True,True,1,1.0,1,1,1,"{'05/03/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2022-41800,1,2025-03-05 12:46:38.280641
-Netis,Netis DL4323,True,True,1,1.0,13,6,22,{},CVE-2019-20074,1542,2025-12-27 12:53:45.762608
+Netis,Netis DL4323,True,True,1,1.0,13,6,22,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2019-20074,1542,2025-12-27 12:53:45.762608
 Zoho,ManageEngine OpManager,True,True,1,1.0,1,1,1,"{'13/09/2024': {'connections': 1, 'uniq_ips': 1}, '14/09/2024': {'connections': 1, 'uniq_ips': 1}}",CVE-2021-3287,1,2024-09-13 12:40:59.449443
-Fortinet,Fortinet FortiWeb,True,True,1,1.0,1,26,37,{},CVE-2025-25257,7347,2025-12-27 12:53:45.858144
-Oracle,Oracle E-Business Suite (Oracle Concurrent Processing),True,True,1,1.0,3,14,197,{},CVE-2025-61882,11012,2025-12-27 12:53:45.851582
-Alfresco,Alfresco Community Edition (Alfresco Share),True,True,1,1.0,1,3,40,{},CVE-2019-14223,26814,2025-12-27 12:53:45.760784
-Tenda,Tenda AC1200 V-W15Ev2,True,True,1,1.0,8,5,31,{},CVE-2022-40843,1570,2025-12-27 12:53:45.693446
-Fortinet,FortiWeb,True,True,1,1.0,1,11,26,{},CVE-2021-22122,8997,2025-12-27 12:53:45.790622
-D-Link,D-Link DIR-825 G1,True,True,1,1.0,1,5,5,{},CVE-2021-46442,803,2025-12-27 12:53:45.845450
+Fortinet,Fortinet FortiWeb,True,True,1,1.0,1,26,37,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-25257,7347,2025-12-27 12:53:45.858144
+Oracle,Oracle E-Business Suite (Oracle Concurrent Processing),True,True,1,1.0,3,14,197,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-61882,11012,2025-12-27 12:53:45.851582
+Alfresco,Alfresco Community Edition (Alfresco Share),True,True,1,1.0,1,3,40,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2019-14223,26814,2025-12-27 12:53:45.760784
+Tenda,Tenda AC1200 V-W15Ev2,True,True,1,1.0,8,5,31,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2022-40843,1570,2025-12-27 12:53:45.693446
+Fortinet,FortiWeb,True,True,1,1.0,1,11,26,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2021-22122,8997,2025-12-27 12:53:45.790622
+D-Link,D-Link DIR-825 G1,True,True,1,1.0,1,5,5,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2021-46442,803,2025-12-27 12:53:45.845450
 Array Networks,Array AG Series and vxAG,True,True,1,1.0,4,3,5,"{'15/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2023-28461,149,2025-12-15 13:01:17.439675
-QCubed,QCubed,True,True,1,1.0,1,3,89,{},CVE-2020-24914,95985,2025-12-27 12:53:45.838667
-Progress,WhatsUp Gold,True,True,1,1.0,9,42,45,{},CVE-2024-4885,8093,2025-12-27 12:53:45.807070
+QCubed,QCubed,True,True,1,1.0,1,3,89,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2020-24914,95985,2025-12-27 12:53:45.838667
+Progress,WhatsUp Gold,True,True,1,1.0,9,42,45,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-4885,8093,2025-12-27 12:53:45.807070
 Juniper,Junos OS (J-Web),True,True,1,1.0,3,9,1409,"{'20/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2023-36845,13237,2025-12-20 12:52:13.027310
-Wordpress,Wordpress NotificationX plugin,True,True,1,1.0,2,52,51,{},CVE-2024-1698,10724,2025-12-27 12:53:45.778268
+Wordpress,Wordpress NotificationX plugin,True,True,1,1.0,2,52,51,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-1698,10724,2025-12-27 12:53:45.778268
 Oracle,Oracle Weblogic Server,True,True,1,1.0,1,5,6,"{'20/11/2025': {'connections': 1, 'uniq_ips': 1}, '21/11/2025': {'connections': 1, 'uniq_ips': 1}, '22/11/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2020-14883,2268,2025-11-20 12:54:11.905393
 ABUS,ABUS TVIP 20000-21150,True,True,1,1.0,1,1,1,{},CVE-2023-26609,3,2025-02-15 12:39:22.937327
-ZoneMinder,ZoneMinder,True,True,1,1.0,1,39,42,{},CVE-2024-43360,2923,2025-12-27 12:53:45.734180
-Netis,Netis routers multiple models,True,True,1,1.0,4,3,113,{},CVE-2024-48455,13689,2025-12-27 12:53:45.707193
-Progress,WhatsUp Gold,True,True,1,1.0,2,46,41,{},CVE-2024-6670,4491,2025-12-27 12:53:45.739173
-Ollama,Ollama,True,True,1,1.0,5,50,68,{},CVE-2024-37032,19864,2025-12-27 12:53:45.703211
-Ivanti,Avalanche,True,True,1,1.0,2,22,41,{},CVE-2023-32563,18450,2025-12-27 12:53:45.792894
-Wordpress,Wordpress Adning Advertising plugin,True,True,1,1.0,1,4,24,{},CVE-2020-36728,281,2025-12-27 12:53:45.764227
-Adones Pitogo,angular-base64-upload,True,True,1,1.0,2,43,56,{},CVE-2024-42640,14760,2025-12-27 12:53:45.751231
+ZoneMinder,ZoneMinder,True,True,1,1.0,1,39,42,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-43360,2923,2025-12-27 12:53:45.734180
+Netis,Netis routers multiple models,True,True,1,1.0,4,3,113,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-48455,13689,2025-12-27 12:53:45.707193
+Progress,WhatsUp Gold,True,True,1,1.0,2,46,41,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-6670,4491,2025-12-27 12:53:45.739173
+Ollama,Ollama,True,True,1,1.0,5,50,68,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-37032,19864,2025-12-27 12:53:45.703211
+Ivanti,Avalanche,True,True,1,1.0,2,22,41,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2023-32563,18450,2025-12-27 12:53:45.792894
+Wordpress,Wordpress Adning Advertising plugin,True,True,1,1.0,1,4,24,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2020-36728,281,2025-12-27 12:53:45.764227
+Adones Pitogo,angular-base64-upload,True,True,1,1.0,2,43,56,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-42640,14760,2025-12-27 12:53:45.751231
 D-Link,D-Link DIR-610,True,True,1,1.0,1,4,3,"{'16/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2020-9377,2550,2025-12-16 13:00:01.474327
-Terramaster,TOS,True,True,1,1.0,8,5,49,{},CVE-2020-28185,46671,2025-12-27 12:53:45.832061
+Terramaster,TOS,True,True,1,1.0,8,5,49,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2020-28185,46671,2025-12-27 12:53:45.832061
 D-Link/TRENDnet,D-Link/TRENDnet multiple devices,True,True,1,1.0,1,1,1,"{'24/09/2024': {'connections': 1, 'uniq_ips': 1}, '27/11/2024': {'connections': 1, 'uniq_ips': 1}, '28/11/2024': {'connections': 1, 'uniq_ips': 1}, '23/06/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2015-1187,1,2024-09-24 12:45:04.005089
-Oracle,Oracle E-Business Suite,True,True,1,1.0,10,5,35,{},CVE-2016-0457,22118,2025-12-27 12:53:45.702575
-Wordpress,Wordpress Ditty plugin,True,True,1,1.0,1,3,15,{},CVE-2025-8085,115,2025-12-27 12:53:45.760581
-Easy!Appointments,Easy!Appointments,True,True,1,1.0,1,1,2,{},CVE-2022-0482,266,2025-12-27 12:53:45.799772
-Netentsec,NS-ASG Application Security Gateway,True,True,1,1.0,4,3,21,{},CVE-2024-2330,3249,2025-12-27 12:53:45.726809
+Oracle,Oracle E-Business Suite,True,True,1,1.0,10,5,35,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2016-0457,22118,2025-12-27 12:53:45.702575
+Wordpress,Wordpress Ditty plugin,True,True,1,1.0,1,3,15,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-8085,115,2025-12-27 12:53:45.760581
+Easy!Appointments,Easy!Appointments,True,True,1,1.0,1,1,2,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2022-0482,266,2025-12-27 12:53:45.799772
+Netentsec,NS-ASG Application Security Gateway,True,True,1,1.0,4,3,21,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-2330,3249,2025-12-27 12:53:45.726809
 NSFOCUS,NSFOCUS SecGate3600 Firewall,True,True,1,1.0,1,1,1,"{'25/10/2025': {'connections': 1, 'uniq_ips': 1}, '06/12/2025': {'connections': 1, 'uniq_ips': 1}, '07/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2023-7308,1,2025-10-25 12:47:59.001063
 QNAP,QTS and QuTS Hero,True,False,1,,1,1,1,,CVE-2023-39296,1,2024-03-25 12:01:19.197225
 Palo Alto Networks,Palo Alto Networks Expedition,True,True,1,1.0,1,1,1,"{'04/04/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-5910,13,2025-04-04 12:48:48.532340
 David Strutz,bootstrap-multiselect,True,True,1,1.0,1,51,21,"{'15/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-47204,547,2025-12-15 13:01:17.429166
 Ruijie,Ruijie RG-EW1200G,True,True,1,1.0,4,7,23,"{'19/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2023-4169,8544,2025-12-19 12:56:29.571413
-Ivanti,Ivanti Secure Connect and Policy Secure,True,True,1,1.0,1080,701,1352,{},CVE-2024-21887,672906,2025-12-27 12:53:45.740331
-Changsha SPON Communication Technology,SPON IP Network Broadcast System,True,True,1,1.0,1,6,4,"{'13/12/2025': {'connections': 1, 'uniq_ips': 1}, '16/12/2025': {'connections': 1, 'uniq_ips': 1}, '17/12/2025': {'connections': 1, 'uniq_ips': 1}, '26/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-13982,38,2025-12-13 12:52:24.173368
-FOG Project,FOG,True,True,1,1.0,5,44,55,{},CVE-2024-39914,13715,2025-12-27 12:53:45.848934
-Erudika,Scoold,True,True,1,1.0,1,3,24,{},CVE-2024-50334,772,2025-12-27 12:53:45.688416
+Ivanti,Ivanti Secure Connect and Policy Secure,True,True,1,1.0,1080,701,1352,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-21887,672906,2025-12-27 12:53:45.740331
+Changsha SPON Communication Technology,SPON IP Network Broadcast System,True,True,1,1.0,1,6,4,"{'13/12/2025': {'connections': 1, 'uniq_ips': 1}, '16/12/2025': {'connections': 1, 'uniq_ips': 1}, '17/12/2025': {'connections': 1, 'uniq_ips': 1}, '26/12/2025': {'connections': 1, 'uniq_ips': 1}, '27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-13982,38,2025-12-13 12:52:24.173368
+FOG Project,FOG,True,True,1,1.0,5,44,55,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-39914,13715,2025-12-27 12:53:45.848934
+Erudika,Scoold,True,True,1,1.0,1,3,24,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-50334,772,2025-12-27 12:53:45.688416
 TRENDnet,TRENDnet TEW-411BRPplus,True,True,1,1.0,1,1,1,"{'11/11/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2023-51833,214,2025-11-11 12:54:39.676545
-QNAP,QNAP Music Station,True,True,1,1.0,1,735,708,{},CVE-2023-45038,16692,2025-12-27 12:53:45.834328
+QNAP,QNAP Music Station,True,True,1,1.0,1,735,708,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2023-45038,16692,2025-12-27 12:53:45.834328
 NETGEAR,NETGEAR DGN2200,True,True,1,1.0,1,1,1,"{'16/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2017-6334,366,2025-12-16 13:00:01.498816
-Ivanti,"Ivanti Connect Secure, Policy Secure and ZTA",True,True,1,1.0,4,13,25,{},CVE-2024-22024,27092,2025-12-27 12:53:45.807622
-Alibaba,Fastjson,True,True,1,1.0,1,14,29,{},CVE-2017-18349,11247,2025-12-27 12:53:45.836428
+Ivanti,"Ivanti Connect Secure, Policy Secure and ZTA",True,True,1,1.0,4,13,25,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-22024,27092,2025-12-27 12:53:45.807622
+Alibaba,Fastjson,True,True,1,1.0,1,14,29,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2017-18349,11247,2025-12-27 12:53:45.836428
 Symantec,Symantec Web Gateway 5.0.2.8,True,True,1,1.0,1,1,1,"{'01/09/2025': {'connections': 1, 'uniq_ips': 1}, '04/09/2025': {'connections': 1, 'uniq_ips': 1}, '05/09/2025': {'connections': 1, 'uniq_ips': 1}, '09/09/2025': {'connections': 1, 'uniq_ips': 1}, '10/09/2025': {'connections': 1, 'uniq_ips': 1}, '11/09/2025': {'connections': 1, 'uniq_ips': 1}, '07/11/2025': {'connections': 1, 'uniq_ips': 1}, '08/11/2025': {'connections': 1, 'uniq_ips': 1}, '17/11/2025': {'connections': 1, 'uniq_ips': 1}, '23/12/2025': {'connections': 1, 'uniq_ips': 1}, '24/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2012-0297,10,2025-09-01 12:53:18.090574
-Cisco,Cisco Smart Licensing Utility,True,True,1,1.0,2,2,18,{},CVE-2024-20440,159,2025-12-27 12:53:45.844979
-Qualitor,Qualitor ITSM,True,True,1,1.0,4,49,69,{},CVE-2024-44849,13809,2025-12-27 12:53:45.801656
-Wordpress,Wordpress WP Query Console plugin,True,True,1,1.0,2,53,64,{},CVE-2024-50498,4452,2025-12-27 12:53:45.736217
+Cisco,Cisco Smart Licensing Utility,True,True,1,1.0,2,2,18,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-20440,159,2025-12-27 12:53:45.844979
+Qualitor,Qualitor ITSM,True,True,1,1.0,4,49,69,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-44849,13809,2025-12-27 12:53:45.801656
+Wordpress,Wordpress WP Query Console plugin,True,True,1,1.0,2,53,64,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-50498,4452,2025-12-27 12:53:45.736217
 Sangfor,Sangfor Behavior Management System (DC Management System),True,True,1,1.0,1,1,1,"{'23/10/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2023-7307,1,2025-10-23 12:57:18.624541
-Endress+Hauser,WirelessHART Fieldgate SWG70,True,True,1,1.0,1,4,31,{},CVE-2018-16059,26663,2025-12-27 12:53:45.731750
+Endress+Hauser,WirelessHART Fieldgate SWG70,True,True,1,1.0,1,4,31,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2018-16059,26663,2025-12-27 12:53:45.731750
 VMware,VMware NSX SD-WAN Edge,True,True,1,1.0,1,1,1,"{'29/08/2025': {'connections': 1, 'uniq_ips': 1}, '03/09/2025': {'connections': 1, 'uniq_ips': 1}, '04/09/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2018-6961,1,2025-08-29 12:50:43.383748
-Apache,OFBiz,True,True,1,1.0,16,40,40,{},CVE-2024-45507,7758,2025-12-27 12:53:45.692818
-Wordpress,Wordpress WHMpress - WHMCS WordPress Integration Plugin plugin,True,True,1,1.0,3,43,52,{},CVE-2024-9193,2009,2025-12-27 12:53:45.745068
-SecurEnvoy,SecurEnvoy MFA,True,True,1,1.0,5,45,42,{},CVE-2024-37393,707,2025-12-27 12:53:45.762053
-Progress,Telerik Report Server,True,True,1,1.0,9,39,39,{},CVE-2024-4358,14107,2025-12-27 12:53:45.671951
-Ivanti,"Ivanti Connect Secure, Policy Secure and Ivanti Neurons for ZTA",True,True,1,1.0,2,2,132,{},CVE-2024-21893,47089,2025-12-27 12:53:45.705025
-Citrix,Citrix NetScaler Console,True,True,1,1.0,4,40,50,{},CVE-2024-6235,1557,2025-12-27 12:53:45.820010
+Apache,OFBiz,True,True,1,1.0,16,40,40,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-45507,7758,2025-12-27 12:53:45.692818
+Wordpress,Wordpress WHMpress - WHMCS WordPress Integration Plugin plugin,True,True,1,1.0,3,43,52,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-9193,2009,2025-12-27 12:53:45.745068
+SecurEnvoy,SecurEnvoy MFA,True,True,1,1.0,5,45,42,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-37393,707,2025-12-27 12:53:45.762053
+Progress,Telerik Report Server,True,True,1,1.0,9,39,39,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-4358,14107,2025-12-27 12:53:45.671951
+Ivanti,"Ivanti Connect Secure, Policy Secure and Ivanti Neurons for ZTA",True,True,1,1.0,2,2,132,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-21893,47089,2025-12-27 12:53:45.705025
+Citrix,Citrix NetScaler Console,True,True,1,1.0,4,40,50,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-6235,1557,2025-12-27 12:53:45.820010
 Wordpress,Wordpress Time Clock plugin and Time Clock Pro plugin,True,True,1,1.0,1,1,1,"{'09/09/2025': {'connections': 1, 'uniq_ips': 1}, '10/09/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-9593,1,2025-09-09 12:53:41.609131
-Totolink,Totolink EX1800T,True,True,1,1.0,4,3,32,{},CVE-2024-34257,7414,2025-12-27 12:53:45.855291
-Wordpress,Wordpress Visual Form Builder plugin,True,True,1,1.0,1,3,3,{},CVE-2022-0142,24,2025-12-27 12:53:45.773742
-GruppoSCAI,RealGimm,True,True,1,1.0,1,2,11,{},CVE-2023-41642,2803,2025-12-27 12:53:45.735390
-OpenMetadata,OpenMetadata,True,True,1,1.0,1,36,120,{},CVE-2024-28255,37030,2025-12-27 12:53:45.853441
+Totolink,Totolink EX1800T,True,True,1,1.0,4,3,32,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-34257,7414,2025-12-27 12:53:45.855291
+Wordpress,Wordpress Visual Form Builder plugin,True,True,1,1.0,1,3,3,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2022-0142,24,2025-12-27 12:53:45.773742
+GruppoSCAI,RealGimm,True,True,1,1.0,1,2,11,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2023-41642,2803,2025-12-27 12:53:45.735390
+OpenMetadata,OpenMetadata,True,True,1,1.0,1,36,120,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-28255,37030,2025-12-27 12:53:45.853441
 Wordpress,Wordpress Booking Calendar plugin,True,True,1,1.0,1,38,38,"{'23/10/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2022-3982,141,2025-10-23 12:57:18.477593
 HuangDou,HuangDou UTCMS,True,True,1,1.0,1,1,1,"{'19/02/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-9916,1,2025-02-19 12:41:53.439110
-Linksys,Linksys RE7000,True,True,1,1.0,4,3,27,{},CVE-2024-25852,5454,2025-12-27 12:53:45.763191
-SPIP,SPIP,True,True,1,1.0,1,38,44,{},CVE-2024-7954,6544,2025-12-27 12:53:45.689373
+Linksys,Linksys RE7000,True,True,1,1.0,4,3,27,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-25852,5454,2025-12-27 12:53:45.763191
+SPIP,SPIP,True,True,1,1.0,1,38,44,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-7954,6544,2025-12-27 12:53:45.689373
 Wordpress,Wordpress Users Ultra plugin,True,True,1,1.0,4,25,36,"{'19/12/2025': {'connections': 1, 'uniq_ips': 1}, '21/12/2025': {'connections': 1, 'uniq_ips': 1}, '22/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2022-0769,14198,2025-12-19 12:56:29.639359
-Traccar,Traccar,True,True,1,1.0,1,3,28,{},CVE-2025-61666,225,2025-12-27 12:53:45.768648
-Cisco,Cisco Smart Licensing Utility (CSLU),True,True,1,1.0,2,52,45,{},CVE-2024-20439,2111,2025-12-27 12:53:45.739977
-Microsoft,Windows Server Update Service,True,True,1,1.0,15,85,78,{},CVE-2025-59287,3551,2025-12-27 12:53:45.821764
+Traccar,Traccar,True,True,1,1.0,1,3,28,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-61666,225,2025-12-27 12:53:45.768648
+Cisco,Cisco Smart Licensing Utility (CSLU),True,True,1,1.0,2,52,45,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-20439,2111,2025-12-27 12:53:45.739977
+Microsoft,Windows Server Update Service,True,True,1,1.0,15,85,78,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-59287,3551,2025-12-27 12:53:45.821764
 Progress,WS_FTP Server,True,True,1,1.0,1,1,1,"{'07/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2023-40044,20,2025-12-07 12:50:26.605995
-Argo Project,Argo CD,True,True,1,1.0,1,3,12,{},CVE-2025-55190,64,2025-12-27 12:53:45.745280
-plentico,plenti,True,True,1,1.0,2,48,48,{},CVE-2024-49380,428,2025-12-27 12:53:45.806165
-Wordpress,Wordpress WooCommerce Ultimate Gift Card plugin,True,True,1,1.0,2,43,40,{},CVE-2024-8425,662,2025-12-27 12:53:45.737331
-JEECG,jeecg-boot,True,True,1,1.0,5,40,53,{},CVE-2024-48307,16071,2025-12-27 12:53:45.739768
+Argo Project,Argo CD,True,True,1,1.0,1,3,12,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-55190,64,2025-12-27 12:53:45.745280
+plentico,plenti,True,True,1,1.0,2,48,48,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-49380,428,2025-12-27 12:53:45.806165
+Wordpress,Wordpress WooCommerce Ultimate Gift Card plugin,True,True,1,1.0,2,43,40,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-8425,662,2025-12-27 12:53:45.737331
+JEECG,jeecg-boot,True,True,1,1.0,5,40,53,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-48307,16071,2025-12-27 12:53:45.739768
 Qianxin,TianQing Management Center,True,True,1,1.0,1,14,7,"{'19/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-13984,28,2025-12-19 12:56:29.692078
 Fujian Apex Software,LiveBOS,True,True,1,1.0,1,1,1,"{'23/10/2025': {'connections': 1, 'uniq_ips': 1}, '18/12/2025': {'connections': 1, 'uniq_ips': 1}, '19/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-13981,1,2025-10-23 12:57:18.654171
-FlowiseAI,Flowise,True,True,1,1.0,1,7,16,{},CVE-2025-55346,140,2025-12-27 12:53:45.731277
-Vanna,Vanna,True,True,1,1.0,2,39,49,{},CVE-2024-5827,13519,2025-12-27 12:53:45.826148
-Gradio,Gradio,True,True,1,1.0,2,2,34,{},CVE-2024-1561,34454,2025-12-27 12:53:45.696863
+FlowiseAI,Flowise,True,True,1,1.0,1,7,16,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-55346,140,2025-12-27 12:53:45.731277
+Vanna,Vanna,True,True,1,1.0,2,39,49,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-5827,13519,2025-12-27 12:53:45.826148
+Gradio,Gradio,True,True,1,1.0,2,2,34,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2024-1561,34454,2025-12-27 12:53:45.696863
 Wordpress,Wordpress Core,True,True,1,1.0,1,1,1,"{'20/08/2025': {'connections': 1, 'uniq_ips': 1}, '22/10/2025': {'connections': 1, 'uniq_ips': 1}, '23/10/2025': {'connections': 1, 'uniq_ips': 1}, '17/12/2025': {'connections': 1, 'uniq_ips': 1}, '18/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2022-21661,117,2025-08-20 12:53:31.109648
-Gladinet,Gladinet CentreStack & Triofox,True,True,1,1.0,2,37,34,{},CVE-2025-12480,407,2025-12-27 12:53:45.765459
+Gladinet,Gladinet CentreStack & Triofox,True,True,1,1.0,2,37,34,"{'27/12/2025': {'connections': 1, 'uniq_ips': 1}}",CVE-2025-12480,407,2025-12-27 12:53:45.765459
 NextChat (ChatGPT-Next-Web),NextChat (ChatGPT-Next-Web),True,True,0,0.0,2,28,73,{},CVE-2023-49785,47782,2025-12-25 12:55:51.741987
 Open Source SRS Community,SNS,True,True,0,0.0,4,6,19,{},CVE-2023-34105,1166,2025-12-19 12:56:29.597943
 Wordpress,Wordpress Extensive VC Addons for WPBakery page builder plugin,True,True,0,0.0,4,11,25,{},CVE-2023-0159,1303,2025-12-21 12:53:00.023561
